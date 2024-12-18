@@ -1,40 +1,75 @@
-Một số các cách ôn thi của người ta:
-
+## Kế hoạch ôn thi
 - [How to Pass JLPT N3?](https://www.huskylovesjapan.com/post/how-to-pass-jlpt-n3)
 
-Danh sách phát của Nihongo No Mori
+## Định hướng học ngữ pháp
+Bạn có thể chọn một trong các định hướng học ngữ pháp dưới đây, hoặc không thì học tất nếu bạn muốn.
 
-| Số thứ tự | Bài học | Bài giảng | Hình ảnh |
-| ---- | ---- | ---- | ---- |
-| 1 | [日本語能力試験 JLPT N3 Grammar #1　Learn japanese [日本語の森]](https://www.youtube.com/watch?v=flfi38e0NKk) | |
-| 2 | [uuffTX9K5xU](https://www.youtube.com/watch?v=uuffTX9K5xU) | ![](https://img.youtube.com/vi_webp/uuffTX9K5xU/default.webp) | [Japanese lessons JLPT N3 Grammar #1-1　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=uuffTX9K5xU) | 
-| 3 | [p5V-Q5hH8e0](https://www.youtube.com/watch?v=p5V-Q5hH8e0) | ![](https://img.youtube.com/vi_webp/p5V-Q5hH8e0/default.webp) | [Japanese lessons JLPT N3 Grammar #2　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=p5V-Q5hH8e0) | 
-| 4 | [s1cgzbLVkTg](https://www.youtube.com/watch?v=s1cgzbLVkTg) | ![](https://img.youtube.com/vi_webp/s1cgzbLVkTg/default.webp) | [Japanese language lessons JLPT N3 Grammar #3　[Nihongonomori]](https://www.youtube.com/watch?v=s1cgzbLVkTg) | 
-| 5 | [Krk34qYUQeE](https://www.youtube.com/watch?v=Krk34qYUQeE) | ![](https://img.youtube.com/vi_webp/Krk34qYUQeE/default.webp) | [Japanese lessons JLPT N3 Grammar #4 [Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=Krk34qYUQeE) | 
-| 6 | [JO7zsq2uY_s](https://www.youtube.com/watch?v=JO7zsq2uY_s) | ![](https://img.youtube.com/vi_webp/JO7zsq2uY_s/default.webp) | [Japanese lessons JLPT N3 Grammar #5　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=JO7zsq2uY_s) | 
-| 7 | [gFToJpaKTYk](https://www.youtube.com/watch?v=gFToJpaKTYk) | ![](https://img.youtube.com/vi_webp/gFToJpaKTYk/default.webp) | [Japanese lessons JLPT N3 Grammar #5-1　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=gFToJpaKTYk) | 
-| 8 | [hrefMxfxBJc](https://www.youtube.com/watch?v=hrefMxfxBJc) | ![](https://img.youtube.com/vi_webp/hrefMxfxBJc/default.webp) | [Japanese lessons JLPT N3 Grammar #6　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=hrefMxfxBJc) | 
-| 9 | [Vx_dCXVv324](https://www.youtube.com/watch?v=Vx_dCXVv324) | ![](https://img.youtube.com/vi_webp/Vx_dCXVv324/default.webp) | [Japanese lessons JLPT N3 Grammar #7　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=Vx_dCXVv324) | 
-| 10 | [A2xqiuXc9D8](https://www.youtube.com/watch?v=A2xqiuXc9D8) | ![](https://img.youtube.com/vi_webp/A2xqiuXc9D8/default.webp) | [Japanese lessons JLPT N3 Grammar #8 「くらい、ぐらい」　[Nihongonomori Kento teacher]](https://www.youtube.com/watch?v=A2xqiuXc9D8) | 
-| 11 | [AO46Nu7dbuk](https://www.youtube.com/watch?v=AO46Nu7dbuk) | ![](https://img.youtube.com/vi_webp/AO46Nu7dbuk/default.webp) | [Japanese lessons JLPT N3 Grammar #9 「～くらいなら」「～うちに」　[Nihongonomori Louis Kento II]](https://www.youtube.com/watch?v=AO46Nu7dbuk) | 
-| 12 | [414K4PxSw4E](https://www.youtube.com/watch?v=414K4PxSw4E) | ![](https://img.youtube.com/vi_webp/414K4PxSw4E/default.webp) | [Japanese lessons 日本語能力試験 JLPT N3 Grammar #10 「を中心に、を始め」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=414K4PxSw4E) | 
-| 13 | [wKmjdwDFfBY](https://www.youtube.com/watch?v=wKmjdwDFfBY) | ![](https://img.youtube.com/vi_webp/wKmjdwDFfBY/default.webp) | [Japanese lessons 日本語能力試験 JLPT N3 Grammar #11 「～において」「～にわたって/わたる」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=wKmjdwDFfBY) | 
-| 14 | [Lh1mDGVY3Gw](https://www.youtube.com/watch?v=Lh1mDGVY3Gw) | ![](https://img.youtube.com/vi_webp/Lh1mDGVY3Gw/default.webp) | [Japanese lessons 日本語能力試験 JLPT N3 Grammar #12 「～にとって」「～に違いない」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=Lh1mDGVY3Gw) | 
-| 15 | [MEnkZfln8FA](https://www.youtube.com/watch?v=MEnkZfln8FA) | ![](https://img.youtube.com/vi_webp/MEnkZfln8FA/default.webp) | [Japanese lessons 日本語能力試験 JLPT N3 Grammar #13 「～とは」「～た とたん」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=MEnkZfln8FA) | 
-| 16 | [lukMSDKohbw](https://www.youtube.com/watch?v=lukMSDKohbw) | ![](https://img.youtube.com/vi_webp/lukMSDKohbw/default.webp) | [Japanese lessons 日本語能力試験 JLPT N3 Grammar #14 「つれて」「したがって」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=lukMSDKohbw) | 
-| 17 | [Ym3NGIZ0Q6Q](https://www.youtube.com/watch?v=Ym3NGIZ0Q6Q) | ![](https://img.youtube.com/vi_webp/Ym3NGIZ0Q6Q/default.webp) | [日本語能力試験 JLPT N3 Grammar #15/36 「て以来」「一方だ」　[Nihongonomori Louis Kento teacher]](https://www.youtube.com/watch?v=Ym3NGIZ0Q6Q) | 
-| 18 | [65KbZioDfJ4](https://www.youtube.com/watch?v=65KbZioDfJ4) | ![](https://img.youtube.com/vi_webp/65KbZioDfJ4/default.webp) | [日本語能力試験 JLPT N3 Grammar #16/36 「しかない/ほかない」、「～はもちろん」、「～ついでに」](https://www.youtube.com/watch?v=65KbZioDfJ4) | 
-| 19 | [_9CsetnMH6A](https://www.youtube.com/watch?v=_9CsetnMH6A) | ![](https://img.youtube.com/vi_webp/_9CsetnMH6A/default.webp) | [Japanese lesson JLPT N3 Grammar #17/36 「ということだ」、「ことはない」「こと」 [Free Japanese online lesson]](https://www.youtube.com/watch?v=_9CsetnMH6A) | 
-| 20 | [F9SnRS-MgKs](https://www.youtube.com/watch?v=F9SnRS-MgKs) | ![](https://img.youtube.com/vi_webp/F9SnRS-MgKs/default.webp) | [Japanese lesson JLPT N3 Grammar #18/36 「ないことは（も）ない」、「もの（もん）」「ものだから」 [Free Japanese online lesson]](https://www.youtube.com/watch?v=F9SnRS-MgKs) | 
-| 21 | [WaxlDufwGAU](https://www.youtube.com/watch?v=WaxlDufwGAU) | ![](https://img.youtube.com/vi_webp/WaxlDufwGAU/default.webp) | [Japanese lesson JLPT N3 Grammar #19/36 「ものか」「たところ」「ところに」 [Free Japanese online lesson]](https://www.youtube.com/watch?v=WaxlDufwGAU) | 
-| 22 | [VkxDlk8P5aE](https://www.youtube.com/watch?v=VkxDlk8P5aE) | ![](https://img.youtube.com/vi_webp/VkxDlk8P5aE/default.webp) | [「ほど1,2,3,4」 Japanese lesson JLPT N3 Grammar #20/36 [Free Japanese online lesson]](https://www.youtube.com/watch?v=VkxDlk8P5aE) | 
-| 23 | [qaJznD0GSuQ](https://www.youtube.com/watch?v=qaJznD0GSuQ) | ![](https://img.youtube.com/vi_webp/qaJznD0GSuQ/default.webp) | [「～ほど～はない」「～ば～ほど」 JLPT N3 Grammar #20-2/36 Japanese lesson [Free Japanese online lesson]](https://www.youtube.com/watch?v=qaJznD0GSuQ) | 
-| 24 | [tNUgnQfPKXE](https://www.youtube.com/watch?v=tNUgnQfPKXE) | ![](https://img.youtube.com/vi_webp/tNUgnQfPKXE/default.webp) | [「からには」「ぎみ」「がち」 JLPT N3 Grammar #21/36 Nihongonomori Japanese lesson [Free Japanese online lesson]](https://www.youtube.com/watch?v=tNUgnQfPKXE) | 
-| 25 | [o7CyB444ybc](https://www.youtube.com/watch?v=o7CyB444ybc) | ![](https://img.youtube.com/vi_webp/o7CyB444ybc/default.webp) | [「向け/向き」「を通して/通じて」 JLPT N3 Grammar #22/36 Nihongonomori Japanese lesson [Free Japanese online lesson]](https://www.youtube.com/watch?v=o7CyB444ybc) | 
-| 26 | [-gb6FiW-R1M](https://www.youtube.com/watch?v=-gb6FiW-R1M) | ![](https://img.youtube.com/vi_webp/-gb6FiW-R1M/default.webp) | [「～に決まっている」「～きる、きれる」 JLPT N3 Grammar #23/36 Nihongonomori Japanese lesson](https://www.youtube.com/watch?v=-gb6FiW-R1M) | 
-| 27 | [RR4luTbjpOM](https://www.youtube.com/watch?v=RR4luTbjpOM) | ![](https://img.youtube.com/vi_webp/RR4luTbjpOM/default.webp) | [　「とともに」「にともない/ともなって」 JLPT N3 Grammar #24/36 Nihongonomori Japanese lesson](https://www.youtube.com/watch?v=RR4luTbjpOM) |
+### Chiến lược tự học cơ bản
+Chọn bất kì một hướng dẫn nào mà bạn thấy thích ở bên dưới. Sau khi học xong hết các bài rồi thì chuyển qua ôn tập theo cấu trúc.
 
-Đây là các bài giảng bằng Tiếng Nhật dễ hiểu, còn một số khác được gợi ý là
+### Tiếng Việt: Dũng Mori
+Đây là danh sách phát ngữ pháp N3 cũ của Dũng Mori ở trên Youtube. Dũng Mori cũng làm [một video tổng hợp toàn bộ nội dung ngữ pháp N3 trong khoảng hơn 4 tiếng](https://www.youtube.com/watch?v=O3r-RqNR-fU) 
 
-- Learn Japanese ([JLPT N3 playlist found here](https://www.youtube.com/watch?v=kVUskjxAhEM&list=PLwGjqS2iLnwWT_IOoJFBhQ2MWkLntlTri)) - Bằng Tiếng Anh
-- [N3 - Ngữ pháp - Cô Thanhmori](https://www.youtube.com/watch?v=pVnsK0FBmYw&list=PLHTexYj6KLSYTyYvi8pjrAAhJuQ1X0yXA)
+- [Bài 1: Phân biệt として、としても、としては、としての](https://www.youtube.com/watch?v=Fu2KTpWya0I)                                 
+- [Bài 2: Phân biệt 最中に（さいちゅうに）、間（あいだ）、うちに](https://www.youtube.com/watch?v=YKYRE9KI6Yk)                                         
+- [Bài 3: Phân biệt には、にとって、に対して](https://www.youtube.com/watch?v=5UgBXHvpnAE)                                                   
+- [Bài 4: Phân biệt たら、ば、と](https://www.youtube.com/watch?v=UvizsJSmoxo)                                                              
+- [Bài 5: とはかぎらない・わけがない・はずがない・というわけではない・わけがない・ないことはない](https://www.youtube.com/watch?v=IZxh6nUAbx4)                                      
+- [Bài 6: Vたばかり　VS 　Vるところ ばかり、てばかりいる、ばかりに、ばかりか、](https://www.youtube.com/watch?v=0Er2yo2VYg0)                             
+- [Bài 7: Vます＋っぱなし、だっけ、たっけ](https://www.youtube.com/watch?v=sUohZSrGLhw)                                                       
+- [Bài 8: させる - Thể sai khiến](https://www.youtube.com/watch?v=lYcFXyV1dCo)      
+- [Bài 9: Phân biệt そうだ！らしい、っぽい](https://www.youtube.com/watch?v=ImyUsU9QGBw)                                                          
+- [Bài 10: Phân biệt ような　ように　みたいな　みたいに](https://www.youtube.com/watch?v=FHE49nMldpU)                                                    
+- [Bài 11: ように、だらけ、おかげで、せいで、せいか](https://www.youtube.com/watch?v=6qyLOPCGCSg)                                                  
+- [Bài 12: ほど](https://www.youtube.com/watch?v=bDPWwjvgKSQ)                                                                    
+- [Bài 13: ちゃう、じゃう](https://www.youtube.com/watch?v=kZj7KO-wQzQ)                                                               
+- [Bài 14: について、に関して、に比べて、に加えて](https://www.youtube.com/watch?v=u_J9jHCAF-c)                                                   
+- [Bài 15: Phân biệt おきに、たびに、ごとに](https://www.youtube.com/watch?v=whFKtd0eSRA)                                                
+- [Bài 16: ~ちゃ/じゃいけない、~なきゃ/なくちゃ、～じゃない？、　～んじゃないかと思う](https://www.youtube.com/watch?v=WT20vrHioIs)                               
+- [Bài 17](https://www.youtube.com/watch?v=fY7y9gHBE7U)                              
+- [Bài 18: Cách nói "Biết thế...", "Ước gì...", "Giá mà..."](https://www.youtube.com/watch?v=AyKWPkS3nzY)                    
+- [Bài 19: Tôn kính ngữ](https://www.youtube.com/watch?v=T8ghqYkD0b4)                
+- [Bài 20: Khiêm nhường ngữ](https://www.youtube.com/watch?v=N0nii6MsL4o)                                          
+- [Bài 21: Một vài động từ phức quan trọng trong: Vつづける; Vだす; Vはじめる; Vおわる; Vかける; Vきる](https://www.youtube.com/watch?v=0VCGuA9dtxY)     
+- [Bài 22: 死ぬところだった: suýt chết 　－　って、んだって](https://www.youtube.com/watch?v=PXn6kIPvVbk)                                                 
+- [Bài 23: なんか、なんて - 恋人なんかじゃないよ：Người yêu đâu mà người yêu !!!](https://www.youtube.com/watch?v=TNebBZ7VMNU)                         
+- [Bài 24: Sáu mẫu ngữ pháp Vたとたん、～まま、～にちがいない（に決まってる）、Vてほしい、Vてもらいたい、Vてからでないと（Vてからでなければ）](https://www.youtube.com/watch?v=qLS1TsUT6Vo) 
+- [Bài 25: Sáu mẫu ngữ pháp cuối cùng からには、ぎみ、がち、もの、ものか](https://www.youtube.com/watch?v=2WzU19IwrTg)                                 
+
+### Tiếng Nhật: Nihongonomori
+Một số video được tổng hợp lại trên kênh Của Nihongonomori.
+
+- [Bài 1-1:「だらけ、おかげ、せい」](https://www.youtube.com/watch?v=uuffTX9K5xU)   
+- [Bài 2:「～について、～に関して」](https://www.youtube.com/watch?v=p5V-Q5hH8e0)                                    
+- [Bài 3:「ぽい、みたい、ように、ような」](https://www.youtube.com/watch?v=s1cgzbLVkTg)                                         
+- [Bài 4:「～みたいだ、～らしい](https://www.youtube.com/watch?v=Krk34qYUQeE)                                    
+- [Bài 5:「比べて、加えて、対して」](https://www.youtube.com/watch?v=JO7zsq2uY_s) + [Bài 5-1](https://www.youtube.com/watch?v=gFToJpaKTYk)                                  
+- [Bài 6:「たびに、たとえ～ても」](https://www.youtube.com/watch?v=hrefMxfxBJc)                                    
+- [Bài 7:「って」](https://www.youtube.com/watch?v=Vx_dCXVv324)                                    
+- [Bài 8:「くらい、ぐらい」](https://www.youtube.com/watch?v=A2xqiuXc9D8)                          
+- [Bài 9:「～くらいなら」「～うちに」](https://www.youtube.com/watch?v=AO46Nu7dbuk)                    
+- [Bài 10:「を中心に、を始め」](https://www.youtube.com/watch?v=414K4PxSw4E)          
+- [Bài 11:「～において」「～にわたって/わたる」](https://www.youtube.com/watch?v=wKmjdwDFfBY) 
+- [Bài 12:「～にとって」「～に違いない」](https://www.youtube.com/watch?v=Lh1mDGVY3Gw)     
+- [Bài 13:「～とは」「～た とたん」](https://www.youtube.com/watch?v=MEnkZfln8FA)       
+- [Bài 14:「つれて」「したがって」](https://www.youtube.com/watch?v=lukMSDKohbw)        
+- [Bài 15:「て以来」「一方だ」](https://www.youtube.com/watch?v=Ym3NGIZ0Q6Q)                        
+- [Bài 16:「しかない/ほかない」、「～はもちろん」、「～ついでに」](https://www.youtube.com/watch?v=65KbZioDfJ4)                                          
+- [Bài 17:「ということだ」、「ことはない」「こと」](https://www.youtube.com/watch?v=_9CsetnMH6A)            
+- [Bài 18:「ないことは（も）ない」、「もの（もん）」「ものだから」](https://www.youtube.com/watch?v=F9SnRS-MgKs)    
+- [Bài 19:「ものか」「たところ」「ところに」](https://www.youtube.com/watch?v=WaxlDufwGAU)               
+- [Bài 20「ほど1,2,3,4」](https://www.youtube.com/watch?v=VkxDlk8P5aE)                     
+- [Bài 20-2:「～ほど～はない」「～ば～ほど」](https://www.youtube.com/watch?v=qaJznD0GSuQ)              
+- [Bài 21:「からには」「ぎみ」「がち」](https://www.youtube.com/watch?v=tNUgnQfPKXE)    
+- [Bài 22:「向け/向き」「を通して/通じて」](https://www.youtube.com/watch?v=o7CyB444ybc) 
+- [Bài 23:「～に決まっている」「～きる、きれる」](https://www.youtube.com/watch?v=-gb6FiW-R1M)                             
+- [Bài 24:「とともに」「にともない/ともなって」](https://www.youtube.com/watch?v=RR4luTbjpOM)                                         
+                                                                                                                                                     
+### Một số danh sách tổng hợp khác
+
+- [【JLPT直前対策！】1時間でJLPT N3文法 / 日本語能力試験 N3](https://www.youtube.com/watch?v=yECmEMgKWuM)
+- [The Complete JLPT N3 Grammar Video(Game) Textbook](https://www.youtube.com/watch?v=VrscRD5y2gk)
+- [109 Cấu trúc N3 học bằng Tiếng Nhật](https://www.youtube.com/playlist?list=PLCLBHbUvkRGrkA7_-DquG6g3KZSBSFVA7)
+
+### Kho đề
+facebook.com/media/set/?set=a.275992256450220&type=3
