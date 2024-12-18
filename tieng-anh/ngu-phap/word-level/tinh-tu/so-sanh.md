@@ -1,4 +1,4 @@
-https://www.facebook.com/lovetncenglish.vn/posts/t%E1%BA%A5t-t%E1%BA%A7n-t%E1%BA%ADt-v%E1%BB%81-c%C3%A2u-so-s%C3%A1nh-xem-v%C3%AD-d%E1%BB%A5-%C4%91%E1%BB%99c-%C4%91%E1%BB%83-nh%E1%BB%9B-n%E1%BB%99i-dung-nh%C3%A9-c%E1%BA%A5u-tr%C3%BAc-c%C3%A2u-c%E1%BB%A7a-c%C3%A1/830044820423721/    
+https://www.facebook.com/lovetncenglish.vn/posts/830044820423721/    
 
 TẤT TẦN TẬT VỀ CÂU SO SÁNH! XEM VÍ DỤ ĐỘC ĐỂ NHỚ NỘI DUNG NHÉ! 
 

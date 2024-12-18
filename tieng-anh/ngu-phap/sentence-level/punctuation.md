@@ -1,16 +1,16 @@
-6 NGUYÊN TẮC SỬ DỤNG DẤU CÂU TRONG TIẾNG ANH
+# Punctuation trong Tiếng Anh
 
 Dấu câu (punctuation) là một chủ đề không mới trong tiếng Anh nhưng vẫn chưa được nhiều người để tâm tìm hiểu bởi ai cũng cho rằng cách dùng của chúng cũng giống như trong tiếng Việt mà thôi! Nhưng sự thật là chúng khác nhau rất nhiều, cả về cách sử dụng lẫn ý nghĩa trong câu.
 
 Sử dụng sai dấu câu không chỉ khiến bạn bị mất điểm khi viết luận hoặc email, mà đôi lúc còn làm đối phương hiểu sai ý nghĩa điều bạn muốn truyền đạt.
 
-1\. Dấu chấm (full stop)
+### 1. Dấu chấm (full stop)
 
 Dấu chấm thường dùng để chấm dứt một câu hoàn chỉnh, có đủ chủ ngữ và vị ngữ.
 
 Ví dụ: Sam will do anything to achieve his dreams. (Sam sẽ làm tất cả để đạt được ước mơ của mình.)
 
-2\. Dấu phẩy (comma)
+### 2. Dấu phẩy (comma)
 
 Có 5 cách dùng dấu phẩy:
 
@@ -34,19 +34,19 @@ Ví dụ: Sam said, "If you don't start now, you will regret for sure." (Sam nó
 
 Ví dụ: Bill Gates, the richest man in the world, comes from Seattle. (Bill Gates, người đàn ông giàu nhất thế giới, là người ở bang Seattle.)
 
-3\. Dấu chấm hỏi (question mark)
+### 3. Dấu chấm hỏi (question mark)
 
 Dấu chấm hỏi được dùng ở cuối câu nghi vấn.
 
 Ví dụ: How long have you left this town? (Anh rời vùng này được bao lâu rồi?)
 
-4\. Dấu chấm than (exclaimation mark)
+### 4. Dấu chấm than (exclaimation mark)
 
 Dấu chấm than được dùng ở cuối câu để thể hiện sự ngạc nhiên, hoặc khi người viết muốn nhấn mạnh một ý nào đó. Tuy nhiên, bạn nên hạn chế lạm dụng dấu câu này.
 
 Ví dụ: I can't believe he dropped out of school to be a perfomer! (Tớ không thể tin là hắn bỏ học để trở thành người biểu diễn!)
 
-5\. Dấu hai chấm (colon)
+### 5. Dấu hai chấm (colon)
 
 Dấu hai chấm được dùng với 2 mục đích:
 
@@ -58,7 +58,7 @@ Ví dụ: She left the company for the following reasons: bad pay, horrible hour
 
 Ví dụ: He announced to his friends: "I'm going to study abroad!" (Anh thông báo với bạn bè: "Tớ sắp đi du học rồi!")
 
-6\. Dấu chấm phẩy (semi colon)
+### 6. Dấu chấm phẩy (semi colon)
 
 Có 2 cách dùng dấu câu này:
 
@@ -72,6 +72,5 @@ Ví dụ: They plan to study English, for their travels; digital marketing, for 
 
 Nguồn: Wallstreet English
 
-----------------------
 
-https://www.facebook.com/tienganhratdedang/posts/6-nguy%C3%AAn-t%E1%BA%AFc-s%E1%BB%AD-d%E1%BB%A5ng-d%E1%BA%A5u-c%C3%A2u-trong-ti%E1%BA%BFng-anhd%E1%BA%A5u-c%C3%A2u-punctuation-l%C3%A0-m%E1%BB%99t-ch%E1%BB%A7-%C4%91%E1%BB%81-kh/3376135385836913/
+https://www.facebook.com/tienganhratdedang/posts/3376135385836913/

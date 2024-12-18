@@ -1,14 +1,13 @@
-Cách sử dụng các trạng từ liên kết trong tiếng Anh
+# Trạng từ liên kết
+Một bài viết về trạng từ liên kết.
 
-Trạng từ liên kết là những trạng từ dùng để nối những ý tưởng, những mệnh đề trong một đoạn văn. Có rất nhiều trạng từ liên kết trong tiếng Anh...
-
-Trạng từ liên kết là những trạng từ dùng để nối những ý tưởng, những mệnh đề trong một đoạn văn.
-
-Có rất nhiều trạng từ liên kết trong tiếng Anh, có những trạng từ thường được sử dụng trong các văn bản có tính chất trang trọng, một số trạng từ khác thì được sử dụng trong văn nói, ít trang trọng hơn.
+## Trạng từ liên kết là gì
+Trạng từ liên kết là những trạng từ dùng để nối những ý tưởng, những mệnh đề trong một đoạn văn. Có rất nhiều trạng từ liên kết trong tiếng Anh, có những trạng từ thường được sử dụng trong các văn bản có tính chất trang trọng, một số trạng từ khác thì được sử dụng trong văn nói, ít trang trọng hơn.
 
 Dưới đây là một vài trạng từ liên kết thường gặp:
 
-* Yet / but still: Hai trạng từ này được dùng để nối những ý trái ngược nhau. But still là trạng từ sử dụng nhiều trong văn nói, ít trang trọng cònyet mang tính trang trọng hơn. Xem các ví dụ dưới đây, chú ý sự khác nhau về ý nghĩa và cách sử dụng khi chúng được sử dụng như một trạng từ (bổ sung thông tin cho động từ) và khi chúng được sử dụng như một trạng từ liên kết (nối hai ý trái ngược nhau):
+### Yet / but still 
+Hai trạng từ này được dùng để nối những ý trái ngược nhau. But still là trạng từ sử dụng nhiều trong văn nói, ít trang trọng cònyet mang tính trang trọng hơn. Xem các ví dụ dưới đây, chú ý sự khác nhau về ý nghĩa và cách sử dụng khi chúng được sử dụng như một trạng từ (bổ sung thông tin cho động từ) và khi chúng được sử dụng như một trạng từ liên kết (nối hai ý trái ngược nhau):
 
 Haven't you finished that work yet? Come on. Get a move on! (Bạn chưa hoàn thành công việc đó à? Tiếp tục đi. Hãy xúc tiến nhanh lên!)
 
@@ -20,7 +19,8 @@ He claims he is a vegetarian, yet he eats everything my mother puts in front of 
 
 Lưu ý: Yet với tư cách là một trạng từ liên kết chỉ có thể đứng trước mệnh đề. Still có thể đứng trước hoặc ngay sau chủ ngữ: but he still... / but still he
 
-* As well / too: Hai trạng từ này được dùng như là những trạng từ liên kết với ý nghĩa là cũng, thêm vào đó là, và chúng đều được sử dụng chủ yếu trong các văn bản có tính trang trọng. Xem các ví dụ dưới đây để phân biệt as well, too đóng vai trò là một trạng từ bổ nghĩa cho tính từ hoặc bổ sung thông tin cho động từ với as well, too với tư cách là trạng từ liên kết.
+### As well / too 
+Hai trạng từ này được dùng như là những trạng từ liên kết với ý nghĩa là cũng, thêm vào đó là, và chúng đều được sử dụng chủ yếu trong các văn bản có tính trang trọng. Xem các ví dụ dưới đây để phân biệt as well, too đóng vai trò là một trạng từ bổ nghĩa cho tính từ hoặc bổ sung thông tin cho động từ với as well, too với tư cách là trạng từ liên kết.
 
 This T-shirt is too small for me. I need a larger size. (Chiếc áo phông này nhỏ quá. Tôi muốn một chiếc cỡ lớn hơn.)
 
@@ -34,7 +34,9 @@ Lưu ý: Too, as well vớitư cách là trạng từ liên kết thường đư
 
 You like Beethoven. I too am fond of his music. (Bạn thích Beethoven. Tôi cũng thích những bản nhạc của ông ấy.)
 
-* However / nevertheless: Với tư cách là những trạng từ liên kết, however và nevertheless được dùng để nhấn mạnh sự đối lập, và có thể sẽ làm người đọc, người nghe phải sửng sốt. Xem các ví dụ sau đây:
+### However / nevertheless
+
+Với tư cách là những trạng từ liên kết, however và nevertheless được dùng để nhấn mạnh sự đối lập, và có thể sẽ làm người đọc, người nghe phải sửng sốt. Xem các ví dụ sau đây:
 
 It is clear that prices have been rising steadily throughout this year. It is, however / nevertheless, unlikely that they will continue to rise as quickly next year. (Rõ ràng là giá cả đang tăng lên rất nhanh từ đầu năm nay. Tuy nhiên, không chắc chắn là giá cả sẽ tiếp tục tăng nhanh trong năm sau.)
 
@@ -44,11 +46,12 @@ He always remains cheerful. But his life has been beset by constant illness,neve
 
 Lưu ý:However, nevertheless là những trạng từ có tính chất trang trọng hơn và có thể đứng trước, sau hoặc giữa mệnh đề.
 
-* Whereas / while: là những liên từ dùng để nối những ý đối lập nhau trong những văn cảnh có tính chất trang trọng. Chúng có thể đúng ở đầu mệnh đề, xem các ví dụ sau đây:
+### Whereas/While 
+Là những liên từ dùng để nối những ý đối lập nhau trong những văn cảnh có tính chất trang trọng. Chúng có thể đúng ở đầu mệnh đề, xem các ví dụ sau đây:
 
 It rains quite a lot in England in the summer months whereas rain in Spain in the summer is a rare occurrence. (Trong những tháng hè, trời mưa rất nhiều ở Anh, tuy nhiên mùa hè ở Tây Ban Nha rất hiếm khi có mưa.)
 
-* While, I don't mind you having the occational glass of wine, drinking too much is not in order. (Em sẽ không thấy phiền nếu thỉnh thoảng anh uống một cốc rượu nhưng uống quá nhiều là không thể chấp nhận được.)
+While, I don't mind you having the occational glass of wine, drinking too much is not in order. (Em sẽ không thấy phiền nếu thỉnh thoảng anh uống một cốc rượu nhưng uống quá nhiều là không thể chấp nhận được.)
 
 Cũng với ý nghĩa và cách sử dụng như vậy, trong những văn cảnh có tính chất ít trang trọng hơn, người ta còn sử dụng cụm từ: on the other hand. Xem ví dụ sau:
 

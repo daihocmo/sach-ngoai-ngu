@@ -1,8 +1,7 @@
-https://www.facebook.com/Englishisyourfuture.EIYF/posts/relative-clause-m%E1%BB%87nh-%C4%91%E1%BB%81-quan-h%E1%BB%87-%C4%91%E1%BB%8Bnh-ngh%C4%A9a-m%C4%91qh-hay-c%C3%B2n-%C4%91%C6%B0%E1%BB%A3c-g%E1%BB%8Di-l%C3%A0-m%E1%BB%87nh-%C4%91%E1%BB%81-t%C3%ADnh/1965219906822037/
+# Relative Clause (Mệnh đề quan hệ)
 
-RELATIVE CLAUSE (MỆNH ĐỀ QUAN HỆ)
-
-- Định nghĩa: MĐQH hay còn được gọi là Mệnh đề tính từ (Adjective clause) được sử dụng để miêu tả, xác định hay cung cấp thêm thông tin cho Danh từ đứng trước nó. Danh từ đó được gọi là tiền từ (Antecedent).
+### Mệnh đề quan hệ là gì 
+MĐQH hay còn được gọi là Mệnh đề tính từ (Adjective clause) được sử dụng để miêu tả, xác định hay cung cấp thêm thông tin cho Danh từ đứng trước nó. Danh từ đó được gọi là tiền từ (Antecedent).
 
 - Dấu hiệu:
 
@@ -103,3 +102,6 @@ e.g. The building is very old. He lives there.
 e.g. The town is small. I grew up there.
 
 → The town is small where (in which) I grew up.
+
+
+https://www.facebook.com/Englishisyourfuture.EIYF/posts/1965219906822037/

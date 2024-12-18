@@ -67,25 +67,12 @@ Học về mệnh đề độc lập và mệnh đề phụ thuộc. Còn một 
 - [Mệnh đề quan hệ](ngu-phap/sentence-level/menh-de/menh-de-quan-he.md)
 - [Mệnh đề trạng từ](ngu-phap/sentence-level/menh-de/menh-de-trang-tu.md)
 
-#### Một số các bài về cụm từ và mệnh đề khác
-Không thấy trong EnglishClub nói về phần này nên mình bổ sung thêm ở đây cho những người muốn học.
-
-[Mệnh đề sau wish và if only](ngu-phap/sentence-level/menh-de/wish-if-only.md)
-
-Cụm từ và mệnh đề chỉ:
-
-- [Mục đích](ngu-phap/sentence-level/menh-de/ctmd-muc-dich.md)
-- [Kết quả](ngu-phap/sentence-level/menh-de/ctmd-ket-qua.md)
-- [Nguyên nhân](ngu-phap/sentence-level/menh-de/ctmd-ly-do.md)
-- [Sự tương phản](ngu-phap/sentence-level/menh-de/ctmd-tuong-phan.md)
-
 ### [Câu trong Tiếng Anh](ngu-phap/sentence-level/cau-trong-tieng-anh-la-gi.md)
 
 > Ví dụ: The little girl cried.
 
 Câu là một nhóm từ tạo thành nghĩa đầy đủ, và thường được kết thúc bởi dấu chấm (chấm than, hai chấm, hỏi chấm...). Khi nào thì gọi là câu còn khi nào không?
 
-Bài đọc thêm: [Hình thức nhấn mạnh](ngu-phap/sentence-level/nhan-manh.md) (Emphasis)
 
 ### [Bốn kiểu câu & Bốn kiểu cấu trúc câu](ngu-phap/sentence-level/loai-cau.md)
 
@@ -107,17 +94,16 @@ Tìm hiểu về động từ liên kết, nội động từ và ngoại độn
 
 Trạng từ liên kết là những trạng từ dùng để nối những ý tưởng, những mệnh đề trong một đoạn văn. Có rất nhiều trạng từ liên kết trong Tiếng Anh và sẽ được hướng dẫn trong bài hướng dẫn này.
 
-### [Reported Speech](bai-giang/chuong-6/loi-noi-truc-tiep-va-gian-tiep.md)
+### [Reported Speech](ngu-phap/sentence-level/loi-noi-truc-tiep-va-gian-tiep.md)
 
 Câu trần thuật (Reported Speech) được dùng khi người nói muốn thuật lại một cách gián tiếp câu nói, ngôn ngữ của người nào đó. Hay hiểu theo cách đơn giản đó là đi từ hình thức câu trực tiếp (trích dẫn trong dấu ngoặc kép) đưa về câu gián tiếp thông qua sự biểu đạt với hình thức tường thuật
 
 Trong lời nói trực tiếp (Direct Speech), chúng ta ghi lại chính xác những từ, ngữ của người nói dùng. Lời nói trực tiếp thường được thể hiện bởi: các dấu ngoặc kép " " - tức là lời nói đó được đặt trong dấu ngoặc.
 
-[Bản chất của câu gián tiếp](bai-giang/chuong-6/ban-chat-cau-gian-tiep.md) - Phần ghi chú thêm của bác vnReader bên Voz Forum.
+[Bản chất của câu gián tiếp](ngu-phap/sentence-level/ban-chat-cau-gian-tiep.md) - Phần ghi chú thêm của bác vnReader bên Voz Forum.
 
-### Parenthetical Expression: 
+### Parenthetical Expression
 
-Words added to a sentence without changing its meaning or grammar.
 Các từ được thêm vào câu mà không làm thay đổi về mặt ngữ nghĩa hay ngữ pháp
 
 ### [Các danh mục ngữ pháp khác](ngu-phap/sentence-level/cac-chu-de-ngu-phap-khac.md)
@@ -139,5 +125,5 @@ Tổng hợp các quy tắc viết hoa trong Tiếng Anh.
 Bạn muốn hiểu thêm nữa về ngữ pháp Tiếng Anh? Đây là một số nguồn gợi ý:
 
 - [Thớt giải đáp ngữ pháp - từ vựng tiếng Anh cơ bản-nâng cao](https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/) - Bạn kéo xuống hoặc Ctrl + F và tìm cụm từ **Một số vấn đề mình đã trả lời** rồi sau đó đọc hết các hướng dẫn mà bác ấy viết.
-- Xem hết các video của [Dan Hauer]() và [Kenny N](). 
+- Xem hết các video của [Dan Hauer](https://www.youtube.com/@DanHauer) và [Kenny N](https://www.youtube.com/@HocEnglishOnline). 
 - Đọc [hướng dẫn ngữ pháp Tiếng Anh bằng Tiếng Anh của EnglishClub](https://www.englishclub.com/grammar/) - Đây là hướng dẫn ngữ pháp mà đã được mình ~~ăn cắp phần cấu trúc~~ tham khảo để xây dựng nên trang hướng dẫn này.

@@ -1,13 +1,16 @@
-DIRECT AND INDIRECT SPEECH WITH BACKSHIFT OF TENSES
+# Reported Speech
+
 > to report (verb): to tell somebody what you have heard or seen
+
+## Mở đầu
 
 Hãy tưởng tượng, bạn và Julie đang nói chuyện với nhau, và cô ấy nói rằng: "I saw David yesterday" ("Mình đã nhìn thấy David ngày hôm qua "). David là người anh họ từng rất thân với gia đình bạn nhưng đã mất liên lạc một thời gian, bạn chạy về nhà và kể ngay với mẹ mình: "Mom, Julie said that she had seen David the day before"
 
-![🌻](https://static.xx.fbcdn.net/images/emoji.php/v9/t1a/1/16/1f33b.png)Câu nói của Julie khi đang nói chuyện với bạn: "I saw David yesterday" được xem là câu nói trực tiếp (direct speech)
+Câu nói của Julie khi đang nói chuyện với bạn: "I saw David yesterday" được xem là câu nói trực tiếp (direct speech)
 
-![🌻](https://static.xx.fbcdn.net/images/emoji.php/v9/t1a/1/16/1f33b.png) Khi về nhà, bạn thuật lại lời nói của Julie cho mẹ nghe: Julie said that she had seen David the day before. Lúc này câu nói của bạn trở thành một câu gián tiếp, một câu kể lại lời nói của Julie. (indirect /reported speech)
+Khi về nhà, bạn thuật lại lời nói của Julie cho mẹ nghe: Julie said that she had seen David the day before. Lúc này câu nói của bạn trở thành một câu gián tiếp, một câu kể lại lời nói của Julie. (indirect /reported speech)
 
-Hai câu ví dụ ở trên cho chúng ta thấy sự tương quan giữa lời nói trực tiếp và gián tiếp -- hay thường được gọi là câu tường thuật. Chủ điểm ngữ pháp này được xem là một trong những chủ điểm khá phức tạp, vì phần lớn các câu tường thuật đều yêu cầu có sự lùi thì (backshift of tenses) và có một số thay đổi đối với một số trạng từ chỉ nơi chốn và thời gian (ví dụ: yesterday ![➡️](https://static.xx.fbcdn.net/images/emoji.php/v9/t9e/1/16/27a1.png)the day before)
+Hai câu ví dụ ở trên cho chúng ta thấy sự tương quan giữa lời nói trực tiếp và gián tiếp -- hay thường được gọi là câu tường thuật. Chủ điểm ngữ pháp này được xem là một trong những chủ điểm khá phức tạp, vì phần lớn các câu tường thuật đều yêu cầu có sự lùi thì (backshift of tenses) và có một số thay đổi đối với một số trạng từ chỉ nơi chốn và thời gian (ví dụ: yesterday the day before)
 
 Trích từ [Reported speech: statements](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-statements)
 
@@ -38,7 +41,7 @@ tense sometimes has to go back one tense (eg, present becomes past) - this is ca
 
 Thay đổi về người:
 
-Trong các sách văn phạm người ta thường nói : ngôi thứ nhất thì đổi thành gì, ngôi thứ hai thì đổi thành gì .... Thật tình mà nói trong quá trình giảng dạy tôi thấy rất nhiều em hoàn toàn không hiểu khái niệm " ngôi thứ nhất" " ngôi thứ hai" là gì cả ! Từ "thực tế phủ phàng" đó chúng ta thống nhất không dùng khái niệm "ngôi" ngiếc gì ở đây hết, mà các em chỉ cần nhớ "câu thần chú" này là đủ:
+Trong các sách văn phạm người ta thường nói : ngôi thứ nhất thì đổi thành gì, ngôi thứ hai thì đổi thành gì .... Thật tình mà nói trong quá trình giảng dạy tôi thấy rất nhiều em hoàn toàn không hiểu khái niệm "ngôi thứ nhất" "ngôi thứ hai" là gì cả ! Từ "thực tế phủ phàng" đó chúng ta thống nhất không dùng khái niệm "ngôi" ngiếc gì ở đây hết, mà các em chỉ cần nhớ "câu thần chú" này là đủ:
 
 TÔI đổi thành NGƯỜI NÓI
 
@@ -50,15 +53,13 @@ Lưu ý là khi đổi thành người nghe hay người nói thì các em phả
 
 Ví dụ:
 
-My mother said to me " I will give you a present."
+My mother said to me "I will give you a present"
 
 I : tôi => người nói : my mother nhưng không để vậy mà phải đổi thành đại từ, vì mẹ tôi là phụ nữ - chủ từ nên đổi thành she
 
 You : bạn => người nghe : me
 
-Cuối cùng ta có :
-
-My mother said to me she would give me a present.
+Cuối cùng ta có: My mother said to me she would give me a present.
 
 ### Backshift - Thay đổi về thì:
 
@@ -90,7 +91,7 @@ Nếu động từ tường thuật bên ngoài dấu ngoặc ở quá khứ th�
 
 Thông thường trên lớp học và trong sách các em sẽ được dạy là thì gì thì phải giảm thành thì gì, ví dụ như thì hiện tại sẽ giảm thành thì quá khứ .... Tuy nhiên cách này có hạn chế là phải học thuộc công thức thì gì sẽ giảm thành thì gì, chưa kể khi gặp các câu không biết gọi là thì gì thì các em sẽ ....bí ! sau đây Thầy sẽ chỉ cho các em cách giảm thì theo một công thức duy nhất, không cần biết tên thì
 
-Giảm thì là lấy động từ gần chủ từ nhất giảm xuống 1 cột. Ví dụ cột 1 thì giảm thành cột 2, ( không phải là động từ bất qui tắc thì thêm ed), cột 2 thì giảm thành cột 3 ( riêng cột 3 không đứng 1 mình được nên phải thêm had phía trước )
+Giảm thì là lấy động từ gần chủ từ nhất giảm xuống 1 cột. Ví dụ cột 1 thì giảm thành cột 2, (không phải là động từ bất qui tắc thì thêm ed), cột 2 thì giảm thành cột 3 (riêng cột 3 không đứng 1 mình được nên phải thêm had phía trước )
 
 Ví dụ:
 
@@ -221,9 +222,7 @@ postponing the           visit to the dentist.
 
 
 
-https://www.facebook.com/Duong.Minh.School/posts/direct-and-indirect-speech-with-backshift-of-tensesh%C3%A3y-t%C6%B0%E1%BB%9Fng-t%C6%B0%E1%BB%A3ng-b%E1%BA%A1n-v%C3%A0-julie-/2003798673003384/
-https://www.facebook.com/GeekoEnglishCenter/posts/c%C3%A2u-tr%E1%BB%B1c-ti%E1%BA%BFp-v%C3%A0-c%C3%A2u-gi%C3%A1n-ti%E1%BA%BFp-p23-c%C3%A1c-d%E1%BA%A1ng-%C4%91%E1%BA%B7c-bi%E1%BB%87t-trong-l%E1%BB%9Di-n%C3%B3i-gi%C3%A1n-ti%E1%BA%BFp-kh%C3%B4/523686174461349/
-
-https://www.facebook.com/tienganhgiaotiepmoingay/posts/c%C3%A2u-t%C6%B0%E1%BB%9Dng-thu%E1%BA%ADt-m%E1%BB%87nh-l%E1%BB%87nh-b%C3%A0i-gi%E1%BA%A3ng-%C4%91c-tr%C3%ADch-t%E1%BB%AB-b%C3%A0i-3-ti%E1%BA%BFng-anh-v%C4%83n-ph%C3%B2ng-level-/161768310679001/
-
-https://www.facebook.com/englisheveryday/posts/c%C3%A2u-t%C6%B0%E1%BB%9Dng-thu%E1%BA%ADt-l%C3%A0-g%C3%AC-c%C3%A2u-t%C6%B0%E1%BB%9Dng-thu%E1%BA%ADt-l%C3%A0-c%C3%A2u-thu%E1%BA%ADt-l%E1%BA%A1i-l%E1%BB%9Di-n%C3%B3i-tr%E1%BB%B1c-ti%E1%BA%BFpv%C3%AD-d%E1%BB%A5mar/575997615794528/
+https://www.facebook.com/Duong.Minh.School/posts/2003798673003384/
+https://www.facebook.com/GeekoEnglishCenter/posts/523686174461349/
+https://www.facebook.com/tienganhgiaotiepmoingay/posts/161768310679001/
+https://www.facebook.com/englisheveryday/posts/575997615794528/

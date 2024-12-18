@@ -1,8 +1,6 @@
-https://www.facebook.com/ClbTiengAnh/posts/ph%C3%A2n-bi%E1%BB%87t-little-a-little-few-a-few1-little-a-littlea-little-little-only-a-littl/1060420593986788/
+## Phân biệt little/ a little; few/ a few
 
-Phân biệt little/ a little; few/ a few
-
-1\. Little/ A little
+### 1\. Little/ A little
 
 A little # little = only a little = very little
 
@@ -20,7 +18,7 @@ a. We have a little time so we'll visit more places in HN
 
 b. Hurry up!!!We have little time.Train is leaving.
 
-2\. Few/ A few
+### 2\. Few/ A few
 
 - A few được dùng với nghĩa tích cực, few được dùng với nghĩa tiêu cực.
 
@@ -40,7 +38,7 @@ There are few opportunities for promotion: Có ít cơ hội thăng tiến.
 
 He asked me a few questions: Ông ta hỏi tôi một vài câu hỏi.
 
-3\. A few/ A little
+### 3\. A few/ A little
 
 - A few/ A little: một chút, một ít
 
@@ -64,4 +62,4 @@ When did you last see mary?
 
 A few days ago.
 
-==============
+https://www.facebook.com/ClbTiengAnh/posts/1060420593986788/

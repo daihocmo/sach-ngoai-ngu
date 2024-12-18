@@ -1,4 +1,4 @@
-https://www.facebook.com/taptanhhoctienganh/posts/c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng-some-many-much-any-a-lot-of-lots-of1-somesome-v%C3%A0i-1-v%C3%A0i-1-%C3%ADt-trong-/1560577147505962/
+https://www.facebook.com/taptanhhoctienganh/posts/1560577147505962/
 
 CÁCH SỬ DỤNG "SOME, MANY, MUCH, ANY, A LOT OF, LOTS OF"
 
