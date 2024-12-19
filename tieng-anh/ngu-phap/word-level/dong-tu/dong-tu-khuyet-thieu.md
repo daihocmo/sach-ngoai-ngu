@@ -1,10 +1,8 @@
 https://www.facebook.com/MrsTrangIELTS/posts/2082800201775666/
 
-Modal verbs -- động từ khuyết thiếu là nhóm động từ rất quen thuộc với bất kì người học tiếng anh nào. Trong bài này chúng ta hãy ôn lại cách dùng của các động từ khuyết thiếu.
-
 I. ĐẶC TÍNH CHUNG CỦA ĐỘNG TỪ KHUYẾT THIẾU
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)1\. Cấu trúc chung
+1\. Cấu trúc chung
 
 S + Modal verbs + V (bare -- infinitive)
 
@@ -16,13 +14,13 @@ They can play the piano.
 
 Họ có thể chơi đàn piano.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)2\. Không biến đổi dạng thứ trong các ngôi
+2\. Không biến đổi dạng thứ trong các ngôi
 
 She can speak many languages. (Không nói: She cans speak many languages.)
 
 Cô ấy có thể nói rất nhiều ngôn ngữ.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)3\. Tồn tại ở dang hiện tại và quá khứ đơn
+3\. Tồn tại ở dang hiện tại và quá khứ đơn
 
 Ví dụ:
 
@@ -34,7 +32,7 @@ He could ride a bike when he was eight.
 
 Anh ấy đã có thể đi xe được xe đạp khi ấy mới 8 tuổi.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)4\. Không cần mượn trợ động từ trong phủ định, nghi vấn, câu hỏi đuôi và câu trả lời ngắn.
+4\. Không cần mượn trợ động từ trong phủ định, nghi vấn, câu hỏi đuôi và câu trả lời ngắn.
 
 Ví dụ:
 
@@ -42,7 +40,7 @@ We cannot sing as beautifully as John.
 
 Chúng tôi không thể hát hay như John.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)5\. Không bao giờ có trường hợp 2 động từ khuyết thiếu đi cùng nhau, nếu có thì từ thứ 2 sẽ phải biến đổi sang một dạng khác. Ví dụ ta dùng will have to chứ không dùng will must, dùng will able to chứ không dùng will can.
+5\. Không bao giờ có trường hợp 2 động từ khuyết thiếu đi cùng nhau, nếu có thì từ thứ 2 sẽ phải biến đổi sang một dạng khác. Ví dụ ta dùng will have to chứ không dùng will must, dùng will able to chứ không dùng will can.
 
 Ví dụ:
 
@@ -52,7 +50,7 @@ Thứ 2 tuần tới tôi sẽ phải đi khám mắt.
 
 II. MỘT SỐ ĐỘNG TỪ KHUYẾT THIẾU TRONG TIẾNG ANH
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)1\. CAN -- COULD
+1\. CAN -- COULD
 
 a. CAN
 
@@ -176,7 +174,7 @@ I worked harder so I was able to get higher salary.
 
 Tôi đã làm việc chăm chỉ hơn do đó tôi có thể nhận được một mức lương cao hơn.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)2\. MAY -- MIGHT
+2\. MAY -- MIGHT
 
 -- MAY quá khứ là MIGHT diễn đạt sự cho phép, xin phép.
 
@@ -250,7 +248,7 @@ You might focus on your exercise when I am correcting it.
 
 Bạn nên tập trung vào bài tập khi tôi chữa nó cho bạn.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)3\. MUST
+3\. MUST
 
 -- MUST có nghĩa là :phải" , dùng để diễn tả một mệnh lệnh hay bắt buộc.
 
@@ -306,7 +304,7 @@ You must do all the work I give you.
 
 Bạn phải làm tất cả những gì tôi giao cho bạn.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)4\. SHALL -- SHOULD
+4\. SHALL -- SHOULD
 
 a. SHALL:
 
@@ -358,7 +356,7 @@ All the students should fill in the form by Tuesday.
 
 Tất cả học sinh nên hoàn thành mẫu đơn này muộn nhất là vào thứ 3.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)5\. WILL -- WOULD
+5\. WILL -- WOULD
 
 a. WILL
 
@@ -408,7 +406,7 @@ After school he would play football.
 
 Sau giờ học anh ấy đi chơi đá bóng.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)6\. OUGHT TO -- DARE -- NEED
+6\. OUGHT TO -- DARE -- NEED
 
 a. OUGHT TO
 
@@ -492,7 +490,7 @@ We hardly need to say how wonderful the holiday was.
 
 Chúng tôi khỏi cần phải nói kì nghỉ tuyệt vời đến nhường nào.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)7\. USED TO
+7\. USED TO
 
 -- USED TO là một hình thức động từ đặc biệt. Nó được xem như một động từ thường hay một động từ khuyết thiếu trong việc hình thành thể phủ định và thể nghi vấn.
 

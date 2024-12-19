@@ -72,22 +72,22 @@ Adverbs - Trạng từ
 
 :putnam: ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png) ![👼](https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f47c.png) Trạng từ trong tiếng anh là gì? :putnam: ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png) ![👼](https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f47c.png)
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png) 
+ 
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png) Vị trí: Trạng từ thường đứng trước từ hay mệnh đề mà nó cần bổ nghĩa. Nhưng cũng tùy trường hợp câu nói mà ngưới ta có thể đặt nó đứng sau hay cuối câu.
+ Vị trí: Trạng từ thường đứng trước từ hay mệnh đề mà nó cần bổ nghĩa. Nhưng cũng tùy trường hợp câu nói mà ngưới ta có thể đặt nó đứng sau hay cuối câu.
 
 ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png) :putnam: ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png) Phân loại và và cách dùng trạng từ trong tiếng anh ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png) :putnam: ![😇](https://static.xx.fbcdn.net/images/emoji.php/v9/t55/1/16/1f607.png)
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png) Trạng từ có thể được phân loại theo nghĩa hoặc theo vị trí của chúng trong câu.
+ Trạng từ có thể được phân loại theo nghĩa hoặc theo vị trí của chúng trong câu.
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png) Tuỳ theo ý nghĩa chúng diễn tả, trạng từ có thể được phân thành 8 loại cơ bản sau đây:
+ Tuỳ theo ý nghĩa chúng diễn tả, trạng từ có thể được phân thành 8 loại cơ bản sau đây:
 
 1\. Trạng từ chỉ tần suất (Frequency)\
 
 
 1\. Trạng từ chỉ tần suất (Frequency)
 
-![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png) Diễn tả mức độ thường xuyên của một hành động, dùng để trả lời câu hỏi HOW OFTEN? và được đặt sau động từ "to be" hoặc trước động từ chính.
+ Diễn tả mức độ thường xuyên của một hành động, dùng để trả lời câu hỏi HOW OFTEN? và được đặt sau động từ "to be" hoặc trước động từ chính.
 
 ![➡](https://static.xx.fbcdn.net/images/emoji.php/v9/t9e/1/16/27a1.png) Ví dụ:\
 ![◼](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/25fc.png) John is always on time. (John luôn đúng giờ.)\

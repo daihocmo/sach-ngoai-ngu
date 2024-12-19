@@ -1,40 +1,84 @@
-https://www.facebook.com/EtalkVN/photos/1069377418523462
+# Câu hỏi đuôi trong Tiếng Anh
+Một số nội dung cơ bản về câu hỏi đuôi
 
-CÂU HỎI ĐUÔI TRONG TIẾNG ANH LÀ GÌ!
+### Câu hỏi đuôi là gì
 
 Câu hỏi đuôi (tag questions) là một trong những cấu trúc quan trọng trong giao tiếp tiếng Anh hàng ngày. Được sử dụng để xác nhận thông tin hoặc tìm kiếm sự đồng ý từ người nghe, câu hỏi đuôi sẽ giúp cuộc trò chuyện trở nên tự nhiên và thân thiện hơn.
-Cấu trúc của câu hỏi đuôi:
 
-Câu hỏi đuôi thường được đặt ở cuối câu trần thuật, gồm hai phần chính:
+### Cấu trúc của câu hỏi đuôi
 
-Phần câu khẳng định: Thường là một câu bình thường.
+#### Câu hỏi đuôi thường được đặt ở cuối câu trần thuật, gồm hai phần chính:
 
-Phần câu hỏi đuôi: Là một câu hỏi ngắn, được tạo bằng cách đảo ngược dạng khẳng định/phủ định của phần câu chính.
+- Phần câu khẳng định: Thường là một câu bình thường.
+- Phần câu hỏi đuôi: Là một câu hỏi ngắn, được tạo bằng cách đảo ngược dạng khẳng định/phủ định của phần câu chính.
 
-You're coming to the meeting, aren't you?
+Ví dụ: 
 
-She doesn't like coffee, does she?
+- You're coming to the meeting, aren't you?
+- She doesn't like coffee, does she?
 
-![💡](https://static.xx.fbcdn.net/images/emoji.php/v9/t3c/1/16/1f4a1.png)Nguyên tắc sử dụng câu hỏi đuôi:
+#### Nguyên tắc sử dụng câu hỏi đuôi:
 
 Nếu câu chính là khẳng định, câu đuôi sẽ là phủ định:
 
-He is a doctor, isn't he?
+> He is a doctor, isn't he?
 
 Nếu câu chính là phủ định, câu đuôi sẽ là khẳng định:
 
-You don't have any questions, do you?
+> You don't have any questions, do you?
 
-![⚠️](https://static.xx.fbcdn.net/images/emoji.php/v9/tdc/1/16/26a0.png)Chú ý đến thì của câu: Thì của động từ trong câu hỏi đuôi phải khớp với thì của câu chính.
+Chú ý đến thì của câu: Thì của động từ trong câu hỏi đuôi phải khớp với thì của câu chính.
 
-They were at the party, weren't they?
+- They were at the party, weren't they?
+- She will come tomorrow, won't she?
 
-She will come tomorrow, won't she?
+#### Khi nào sử dụng câu hỏi đuôi?
 
-![🎯](https://static.xx.fbcdn.net/images/emoji.php/v9/tb0/1/16/1f3af.png)Khi nào sử dụng câu hỏi đuôi?
+- Khi bạn muốn xác nhận thông tin: "It's your first time here, isn't it?"
+- Khi bạn muốn tìm kiếm sự đồng ý hoặc xác nhận từ người nghe: "We had a great time, didn't we?"
 
-Khi bạn muốn xác nhận thông tin: "It's your first time here, isn't it?"
+### Một số trường hợp sử dụng khác
 
-Khi bạn muốn tìm kiếm sự đồng ý hoặc xác nhận từ người nghe: "We had a great time, didn't we?"
+#### Với trợ động từ
 
-Hãy sử dụng câu hỏi đuôi đúng cách để giao tiếp trở nên tự nhiên và hiệu quả hơn nhé!
+Trong câu có trợ động từ 'have' hoặc động từ 'be' thì câu hỏi đuôi sử dụng chính trợ động từ trong câu.
+
+They've gone away for a few days, haven't they?
+
+They weren't here, were they?
+
+He had met him before, hadn't he?
+
+This isn't working, is it?
+
+#### Không có trợ động từ
+
+Nếu như trong câu không có trợ động từ hoặc động từ 'be', câu hỏi đuôi sẽ sử dụng trợ động từ 'do' với dạng thích hợp.
+
+I said that, didn't I?
+
+You don't recognise me, do you?
+
+She eats meat, doesn't she?
+
+#### Động từ hình thái
+
+Trong câu có động từ hình thái, câu hỏi đuôi sẽ sử dụng chính động từ hình thái đó. (Can, may, might, must, should,etc.)
+
+They couldn't hear me, could they?
+
+You won't tell anyone, will you?
+
+#### Trường hợp 'I am'
+
+Lưu ý với câu hỏi đuôi với câu bắt đầu bằng 'I am'. Câu hỏi đuôi cho 'I am' là 'aren't I?', không phải 'amn't I'
+
+I'm the fastest, aren't I?
+
+Nhưng khi sử dụng dạng phủ định, câu hỏi đuôi sẽ sử dụng dạng 'am'
+
+I'm not strong, am I?
+
+
+https://www.facebook.com/EtalkVN/photos/1069377418523462
+https://www.facebook.com/tienganhxungquanhban/posts/991158977736785/
