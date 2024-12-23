@@ -1,7 +1,5 @@
 # Hướng dẫn tự học Tiếng Nhật để thi JLPT
 
-Hoặc đọc [Từ điển ngữ pháp Tiếng Nhật](dictionary-of-japanese-grammar.md)
-
 Một số lưu ý trước khi bắt đầu học:
 
 - Các bài viết đều được lấy nội dung trên Facebook, được tinh chỉnh lại cho phù hợp với việc học ở đây và sẽ được chú thích nguồn đầy đủ (Nếu có, có bài mình tự viết nữa).

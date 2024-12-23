@@ -10,7 +10,7 @@ Sau đó hãy đọc [Chuẩn bị bắt đầu tự học ngữ pháp Tiếng A
 
 ### [Tìm hiểu cơ bản về 9 từ loại trong Tiếng Anh](ngu-phap/word-level/parts-of-speech.md)
 
-Sau khi đọc xong bài tìm hiểu cơ bản về 9 từ loại trong Tiếng Anh, bạn có thể đọc thêm bài [Từ loại nhập môn (danh, tính, động, trạng)](bai-giang/chuong-1/tu-loai.md) được trích trực tiếp từ [thread hướng dẫn ngữ pháp trên Voz Forum](https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/) để hiểu hơn về các từ loại trong câu Tiếng Anh.
+Sau khi đọc xong bài tìm hiểu cơ bản về 9 từ loại trong Tiếng Anh, bạn có thể đọc thêm bài **Từ loại nhập môn (danh, tính, động, trạng)** trên [thread hướng dẫn ngữ pháp trên Voz Forum](https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/) để hiểu hơn về các từ loại trong câu Tiếng Anh.
 
 ### [Động từ và thì động từ](ngu-phap/word-level/dong-tu/README.md)
 

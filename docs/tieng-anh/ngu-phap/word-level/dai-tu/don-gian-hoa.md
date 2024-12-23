@@ -1,4 +1,4 @@
-
+# So sánh Each và Every
 
 "Each" và "Every" đều có nghĩa là mỗi/mọi, nhưng bạn đã biết sử dụng chúng trong trường hợp nào chưa?
 

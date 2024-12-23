@@ -1,6 +1,5 @@
 https://www.facebook.com/kienthucviet/photos/hello-ktv-studentsh%C3%B4m-nay-m%C3%ACnh-c%C3%B9ng-d%C3%A0nh-th%E1%BB%9Di-gian-%C3%B4n-t%E1%BA%ADp-l%E1%BA%A1i-ki%E1%BA%BFn-th%E1%BB%A9c-ng%E1%BB%AF-ph%C3%A1p/10154626674664476/
 
-![](../assets/chuong-2/qkhttd-1.png)
 
 LESSON 20: THE PAST PERFECT CONTINUOUS\
 (Quá Khứ Hoàn Thành Tiếp Diễn)

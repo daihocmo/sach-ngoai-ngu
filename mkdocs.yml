@@ -1,0 +1,113 @@
+site_name: Tự đi mà ôn thi (ngoại ngữ)
+site_description: Tự học ngoại ngữ, hết.
+site_author: duykhanh471
+repo_url: https://github.com/daihocmo/luyen-thi-ngon-ngu
+repo_name: Ôn luyện ngoại ngữ
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Tiếng Anh':
+    - 'Mục lục': 'tieng-anh/README.md'
+    - 'Ngữ pháp cấp độ từ':
+        - 'Tìm hiểu cơ bản về 9 từ loại trong Tiếng Anh': 'tieng-anh/ngu-phap/word-level/parts-of-speech.md'
+        - 'Động từ và thì động từ': 'tieng-anh/ngu-phap/word-level/dong-tu/README.md'
+        - 'Danh từ': 'tieng-anh/ngu-phap/word-level/danh-tu/README.md'
+        - 'Tính từ': 'tieng-anh/ngu-phap/word-level/tinh-tu/README.md'
+        - 'Trạng từ': 'tieng-anh/ngu-phap/word-level/trang-tu/README.md'
+        - 'Từ hạn định': 'tieng-anh/ngu-phap/word-level/tu-han-dinh/README.md'
+        - 'Giới từ': 'tieng-anh/ngu-phap/word-level/gioi-tu/README.md'
+        - 'Đại từ': 'tieng-anh/ngu-phap/word-level/dai-tu/README.md'
+        - 'Liên từ': 'tieng-anh/ngu-phap/word-level/lien-tu/README.md'
+        - 'Thán từ': 'tieng-anh/ngu-phap/word-level/than-tu/README.md'
+    - 'Ngữ pháp cấp độ câu':
+        - 'Phân biệt Phrase, Clause và Sentence': 'tieng-anh/ngu-phap/sentence-level/phrase-clause-sentence.md' 
+        - 'Cụm từ & Mệnh đề':
+            - 'Cụm từ trong Tiếng Anh': 'tieng-anh/ngu-phap/sentence-level/grammatical-phrases.md'
+            - 'Mệnh đề độc lập và phụ thuộc': 'tieng-anh/ngu-phap/sentence-level/menh-de-doc-lap-phu-thuoc.md'
+            - 'Mệnh đề danh từ': 'tieng-anh/ngu-phap/sentence-level/menh-de/menh-de-danh-tu.md'
+            - 'Mệnh đề quan hệ': 'tieng-anh/ngu-phap/sentence-level/menh-de/menh-de-quan-he.md'
+            - 'Mệnh đề trạng từ': 'tieng-anh/ngu-phap/sentence-level/menh-de/menh-de-trang-tu.md'
+        - 'Câu trong Tiếng Anh': 'tieng-anh/ngu-phap/sentence-level/cau-trong-tieng-anh-la-gi.md'
+        - 'Bốn kiểu câu & Bốn kiểu cấu trúc câu': 'tieng-anh/ngu-phap/sentence-level/loai-cau.md'
+        - 'Linking, Intransitive và Transitive Verbs':
+            - 'Nội động từ và ngoại động từ': 'tieng-anh/ngu-phap/sentence-level/noi-dong-tu-ngoai-dong-tu.md' 
+            - 'Linking verbs': 'tieng-anh/ngu-phap/sentence-level/linking-verb.md'
+        - 'Direct Object và Indirect Object': 'tieng-anh/ngu-phap/sentence-level/tan-ngu.md'
+        - 'Trạng từ liên kết - Conjunctive Adverbs': 'tieng-anh/ngu-phap/sentence-level/trang-tu-lien-ket.md'
+        - 'Reported Speech': 'tieng-anh/ngu-phap/sentence-level/loi-noi-truc-tiep-va-gian-tiep.md'
+        - 'Các danh mục ngữ pháp khác': 'tieng-anh/ngu-phap/sentence-level/cac-chu-de-ngu-phap-khac.md'
+        - 'Những phần khác liên quan đến câu':
+            - 'Punctuation': 'tieng-anh/ngu-phap/sentence-level/punctuation.md'
+            - 'Capitalization': 'tieng-anh/ngu-phap/sentence-level/capitalization.md'
+  - 'Tiếng Nhật':
+    - 'Mục lục': 'tieng-nhat/README.md'
+    - 'Khởi điểm': 'tieng-nhat/moi-bat-dau/huong-dan-chinh.md'
+    - 'N5':
+      - 'Hướng dẫn học N5': 'tieng-nhat/n5/README.md'
+    - 'N4': 
+      - 'Bài 26': 'tieng-nhat/n4/bai-hoc/bai-26.md'
+      - 'Bài 27': 'tieng-nhat/n4/bai-hoc/bai-27.md'
+      - 'Bài 28': 'tieng-nhat/n4/bai-hoc/bai-28.md'
+      - 'Bài 29': 'tieng-nhat/n4/bai-hoc/bai-29.md'
+      - 'Bài 30': 'tieng-nhat/n4/bai-hoc/bai-30.md'
+      - 'Bài 31': 'tieng-nhat/n4/bai-hoc/bai-31.md'
+      - 'Bài 32': 'tieng-nhat/n4/bai-hoc/bai-32.md'
+      - 'Bài 33': 'tieng-nhat/n4/bai-hoc/bai-33.md'
+      - 'Bài 34': 'tieng-nhat/n4/bai-hoc/bai-34.md'
+      - 'Bài 35': 'tieng-nhat/n4/bai-hoc/bai-35.md'
+      - 'Bài 36': 'tieng-nhat/n4/bai-hoc/bai-36.md'
+      - 'Bài 37': 'tieng-nhat/n4/bai-hoc/bai-37.md'
+      - 'Bài 38': 'tieng-nhat/n4/bai-hoc/bai-38.md'
+      - 'Bài 39': 'tieng-nhat/n4/bai-hoc/bai-39.md'
+      - 'Bài 40': 'tieng-nhat/n4/bai-hoc/bai-40.md'
+      - 'Bài 41': 'tieng-nhat/n4/bai-hoc/bai-41.md'
+      - 'Bài 42': 'tieng-nhat/n4/bai-hoc/bai-42.md'
+      - 'Bài 43': 'tieng-nhat/n4/bai-hoc/bai-43.md'
+      - 'Bài 44': 'tieng-nhat/n4/bai-hoc/bai-44.md'
+      - 'Bài 45': 'tieng-nhat/n4/bai-hoc/bai-45.md'
+      - 'Bài 46': 'tieng-nhat/n4/bai-hoc/bai-46.md'
+      - 'Bài 47': 'tieng-nhat/n4/bai-hoc/bai-47.md'
+      - 'Bài 48': 'tieng-nhat/n4/bai-hoc/bai-48.md'
+      - 'Bài 49': 'tieng-nhat/n4/bai-hoc/bai-49.md'
+      - 'Bài 50': 'tieng-nhat/n4/bai-hoc/bai-50.md'
+    - 'N3': 'tieng-nhat/n3/README.md'
+    - 'N2': 'tieng-nhat/n2/README.md'
+    - 'N1': 'tieng-nhat/n1/README.md'
+  - 'Tiếng Trung': 'tieng-trung/README.md'
+  - 'Tiếng Hàn': 'tieng-han/README.md'
+  - 'Vietnamese':
+    - 'Simple Vietnamese Grammar Guide': 'tieng-viet/simple-vietnamese-grammar-guide.md'
+    - 'Dictionary Of Vietnamese Grammar': 'tieng-viet/dictionary-of-vietnamese-grammar.md'
+
+
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+  language: vi
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: deep-purple
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode    
+      primary: deep-purple
+
+extra:
+  generator: false
+
+plugins:
+  - search
+  # - open-in-new-tab
