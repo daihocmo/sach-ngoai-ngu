@@ -1,6 +1,4 @@
-Subjunctive Mood là thể Bàng thái cách. Đây là thể khó dùng nhất trong tiếng Anh.
-
-thức giả định hay còn gọi là bàng thái cách
+# Thức giả định (Subjunctive Mood)
 
 + là cách động từ để diễn tả những gì trái với thực tế hoặc chưa thực hiện, những gì còn nằm trong tiềm thức người ta.
 
@@ -52,45 +50,29 @@ It's (high) time (that)... :Đã đến lúc...
 
 Ví dụ:
 
-I wish (that) my sister were here.
+I wish (that) my sister were here. (Tôi mong rằng chị tôi có mặt ở đây.)
 
-(Tôi mong rằng chị tôi có mặt ở đây.)
+If only I had a new watch. (Ước gì tôi có một chiếc đồng hồ đeo tay mới.)
 
-If only I had a new watch.
+It is (high) time (that) you took your lunch. (Đã đến lúc anh phải ăn trưa rồi.)
 
-(Ước gì tôi có một chiếc đồng hồ đeo tay mới.)
-
-It is (high) time (that) you took your lunch.
-
-(Đã đến lúc anh phải ăn trưa rồi.)
-
-I wish I knew how to write English.
-
-(Tôi ước gì tôi biết viết tiếng Anh.)
+I wish I knew how to write English. (Tôi ước gì tôi biết viết tiếng Anh.)
 
 Do you ever wish you could fly?
 
 (Có bao giờ bạn ước rằng bạn bay được không?)
 
-I wish I didn't have to work.
+I wish I didn't have to work. (Tôi ước gì tôi không phải làm việc.)
 
-(Tôi ước gì tôi không phải làm việc.)
-
-If only I could see him right now.
-
-(Ước gì tôi có thể gặp anh ấy ngay bây giờ.)
+If only I could see him right now. (Ước gì tôi có thể gặp anh ấy ngay bây giờ.)
 
 Để ý rằng trong các câu trên động từ wish được dùng ở dạng Present và các động từ sau wish như were, took, had, knew, could,... đều ở dạng Past nhưng các câu này vẫn dùng để chỉ hiện tại hay tương lai chứ không phải quá khứ. Khi muốn nói đến quá khứ ta phải dùng Past Perfect.
 
 Ví dụ:
 
-I wish my sister were here.
+I wish my sister were here. (Ở đây ngụ ý tôi muốn hiện tại hay sau này chị tôi có mặt ở đây)
 
-(Ở đây ngụ ý tôi muốn hiện tại hay sau này chị tôi có mặt ở đây)
-
-I wish my sister had been here.
-
-(Câu này ngụ ý tôi muốn trước đây chị tôi đã có mặt ở đây.)
+I wish my sister had been here. (Câu này ngụ ý tôi muốn trước đây chị tôi đã có mặt ở đây.)
 
 Conditional Sentences
 
@@ -112,19 +94,15 @@ Trong câu thứ ba các động từ này ở dạng Past Perfect. Trường h�
 
 Một số ví dụ khác:
 
-If I were King, you would be Queen.
-
-(Nếu anh là vua em sẽ là hoàng hậu.)
+If I were King, you would be Queen. (Nếu anh là vua em sẽ là hoàng hậu.)
 
 (nhưng thật ra anh không phải là vua)
 
-If I knew her number, I would telephone her.
-
-(Nếu tôi biết số điện thoại của cô ấy, thì tôi sẽ gọi cô ấy)
+If I knew her number, I would telephone her. (Nếu tôi biết số điện thoại của cô ấy, thì tôi sẽ gọi cô ấy)
 
 (nhưng thật ra tôi không biết.)
 
 
-
-https://www.facebook.com/toeic.lily/posts/m%E1%BB%99t-s%E1%BB%91-b%E1%BA%A1n-h%E1%BB%8Fi-c%C3%B4-i-wish-i-were-taller-%C4%91%C3%BAng-hay-sai-c%C3%A2u-n%C3%A0y-%C4%91%C3%BAng-nh%C3%A9-c%C3%A1c-em-v%C3%AC-%C4%91/1861755664050648/
-https://www.facebook.com/tienganhdichthuat/posts/-subjunctive-mood-part-1-th%E1%BB%A9c-gi%E1%BA%A3-%C4%91%E1%BB%8Bnh-hay-c%C3%B2n-g%E1%BB%8Di-l%C3%A0-b%C3%A0ng-th%C3%A1i-c%C3%A1ch-l%C3%A0-c%C3%A1ch-%C4%91%E1%BB%99n/499152373488062/
+### Tham khảo
+- https://www.facebook.com/toeic.lily/posts/1861755664050648/
+- https://www.facebook.com/tienganhdichthuat/posts/499152373488062/

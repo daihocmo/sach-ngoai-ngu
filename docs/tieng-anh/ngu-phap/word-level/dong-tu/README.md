@@ -1,5 +1,8 @@
 # Tất tần tật về Động từ trong Tiếng Anh
 
+!!! info "Định dạng bài viết"
+    Có khá nhiều bài viết trong mục này chưa được chỉnh sửa lại định dạng. Số lượng bài viết trong mục này rất nhiều nên làm chưa xong. Khi nào xong toàn bộ bài viết thì thông báo này sẽ được xóa :D 
+
 ## Động từ là gì?
 
 ### Phân loại động từ
@@ -8,7 +11,7 @@
 
 ### Dạng động từ
 
-Tiếng Anh **chỉ** có 8 dạng động từ, và Tiếng Việt **có tới** một dạng động từ (Đây là cái **joke** trên EnglishClub về số lượng dạng động từ của Tiếng Anh). 
+Tiếng Anh **chỉ** có 8 dạng động từ, và Tiếng Việt **có tới** một dạng động từ (Đây là cái **joke** (chắc thế) trên EnglishClub về số lượng dạng động từ của Tiếng Anh). 
 
 ### Thì Tiếng Anh
 
@@ -40,7 +43,7 @@ I am going to do it
 
 I am about to do it
 
-[**for và since**](for-va-since.md)
+[**for và since**](img/for-va-since.md)
 
 for Time, for two days, since 1st April
 
@@ -52,7 +55,7 @@ for Time, for two days, since 1st April
 
 I am not used to it. I used to do it.
 
-[**Future Time**]()
+[**Future Time**]() - Chưa có bài viết
 
 I will do it. I am going to do it. I am doing it. I do it.
 

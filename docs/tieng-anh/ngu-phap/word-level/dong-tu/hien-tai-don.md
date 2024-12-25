@@ -1,23 +1,40 @@
-Cả 4 bài về hiện tại đều được trích dẫn từ [bài đăng này](https://www.facebook.com/photo.php?fbid=1341902505877766&id=395722407162452&set=a.405272279540798&locale=vi_VN)
+# Thì hiện tại đơn (Present Simple Tense) 
 
-1\. Thì hiện tại đơn - Simple Present\
-VỚI ĐỘNG TỪ THƯỜNG\
-(Khẳng định): S + Vs/es + O\
-(Phủ định): S+ DO/DOES + NOT + V +O\
-(Nghi vấn): DO/DOES + S + V+ O ?\
-VỚI ĐỘNG TỪ TOBE\
-(Khẳng định): S+ AM/IS/ARE + O\
-(Phủ định): S + AM/IS/ARE + NOT + O\
-(Nghi vấn): AM/IS/ARE + S + O\
-Từ nhận biết: always, every, usually, often, generally, frequently.\
-Cách dùng:\
-Thì hiện tại đơn diễn tả một chân lý , một sự thật hiển nhiên.\
-Ví dụ: The sun ries in the East.\
-Tom comes from England.\
-Thì hiện tại đơn diễn tả 1 thói quen , một hành động xảy ra thường xuyên ở hiện tại.\
-Ví dụ: Mary often goes to school by bicycle.\
-I get up early every morning.\
-Lưu ý : ta thêm ""es"" sau các động từ tận cùng là : O, S, X, CH, SH.\
-Thì hiện tại đơn diễn tả năng lực của con người\
-Ví dụ: He plays badminton very well\
-Thì hiện tại đơn còn diễn tả một kế hoạch sắp xếp trước trong tương lai hoặc thời khoá biểu , đặc biệt dùng với các động từ di chuyển.\
+Thì hiện tại đơn (Present Simple Tense) là một thì trong tiếng Anh dùng để diễn tả một hành động hoặc sự việc xảy ra thường xuyên, lặp đi lặp lại, hoặc là một sự thật hiển nhiên. Dưới đây là cách sử dụng và cấu trúc của thì hiện tại đơn
+
+### Xây dựng câu ở thì hiện tại đơn
+
+| Dạng | Chủ ngữ | Trợ động từ | Động từ chính | Phần còn lại của câu | 
+| --- | --- | --- | --- | --- | 
+| Khẳng định | She | |  walks | to school every day |
+| | They | | play | soccer on weekends |
+| Phủ định | He | does not (doesn't) | like | coffee |
+| | We | do not | (don't) | watch | TV often |
+| Nghi vấn |  | Does she | play | the piano? |
+| | | Do they | go | to the gym? |
+
+Với câu khẳng định:
+
+- Đối với chủ ngữ số ít (he, she, it): Động từ thêm "s/es" (Đúng hơn là "third person singular")
+- Đối với chủ ngữ số nhiều và I, you, we, they: động từ nguyên thể.
+
+Với câu phủ định và câu hỏi:
+- Trợ động từ được chia về thì hiện tại đơn: do, does
+- Động từ chính ở dạng nguyên thể
+- Ở câu phủ định thì ta thêm not vào sau trợ động từ: do not (don't), does not (doesn't)
+- Ở câu hỏi thì ta đảo trợ động từ lên đầu câu: **does she**, **do I** chứ không phải she does hoặc I do nữa.
+
+### Cách sử dụng
+- Thói quen hoặc hành động lặp đi lặp lại: Hành động xảy ra đều đặn, thường xuyên (hằng ngày, hằng tuần). Ví dụ: I go to school every day. (Tôi đi học mỗi ngày.)
+- Sự thật hiển nhiên hoặc chân lý: Những điều đúng với mọi thời điểm. Ví dụ: The sun rises in the east. (Mặt trời mọc ở hướng đông.)
+
+### Một số lưu ý
+- Các từ chỉ tần suất (always, usually, often, sometimes, never) thường đứng trước động từ chính. Ví dụ: I always do my homework.
+
+### Tham khảo
+
+- [Thì hiện tại đơn (Present Simple Tense) - hitbooksvn](https://www.facebook.com/hitbooksvn/photos/311424218622818/)
+- [Thì Hiện Tại Đơn (Simple Present Tense) - clevaimath](https://www.facebook.com/clevaimath/posts/999193282223949/)
+- [Present Simple tense - EnglishClub](https://www.englishclub.com/grammar/present-simple-tense.php)
+
+

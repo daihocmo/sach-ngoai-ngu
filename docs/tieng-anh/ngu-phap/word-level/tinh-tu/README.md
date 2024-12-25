@@ -57,14 +57,12 @@ Vậy theo trật tự OSASCOMP cụm danh từ trên sẽ theo vị trí đúng
 
 → Mẹ mua cho tôi 1 cái đèn bàn trang trí bằng kim loại của Nhật màu đen cổ kính to và đẹp.
 
-
 ### Nouns as adjectives
 
 Ví dụ như: coffee cup, bus station, research centre
 
-## Nguồn bài viết
-
-Bài viết được lấy nguồn và hiệu đính từ các bài viết dưới đây:
-
-- https://www.facebook.com/AmericanEnglishCoach/posts/334147612732166/
-- https://www.facebook.com/photo.php?fbid=1808998049258278&id=191267494364683&set=a.193013664190066
+!!! info "Nguồn bài viết"
+    Bài viết được lấy nguồn và hiệu đính từ các bài viết dưới đây:
+    
+    - https://www.facebook.com/AmericanEnglishCoach/posts/334147612732166/
+    - https://www.facebook.com/photo.php?fbid=1808998049258278&id=191267494364683&set=a.193013664190066

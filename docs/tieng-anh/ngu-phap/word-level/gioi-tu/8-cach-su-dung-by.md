@@ -1,43 +1,42 @@
-![🌺](https://static.xx.fbcdn.net/images/emoji.php/v9/t38/2/16/1f33a.png) 8 CÁCH SỬ DỤNG GIỚI TỪ "BY" ![🌺](https://static.xx.fbcdn.net/images/emoji.php/v9/t38/2/16/1f33a.png)
+# 8 cách sử dụng giới từ "By" 
 
-"By" là một trong những giới từ thông dụng nhất trong tiếng Anh, và đồng thời nó cũng rất "đa di năng" đó các bạn nhé! Cùng tìm hiểu thôi nàooo!! ![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/2/16/1f970.png)![🥰](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/2/16/1f970.png)
+"By" là một trong những giới từ thông dụng nhất trong Tiếng Anh, và đồng thời nó cũng rất "đa di năng" nữa.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + NƠI CHỐN: bên cạnh ...
+### By + nơi chốn: bên cạnh ...
 
-VD: My house is by a river.
+Ví dụ: my house is by a river.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + PHƯƠNG TIỆN GIAO THÔNG (car, bike, train, plane,...): đi bằng phương tiện gì
+### By + phương tiện giao thông (car, bike, train, plane,...): đi bằng phương tiện gì
 
-VD: She goes to school by bike.
+Ví dụ: she goes to school by bike.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + CÁCH THỨC GIAO TIẾP (telephone, post, email, fax,...): giao tiếp bằng cách thức gì
+### By + cách thức giao tiếp (telephone, post, email, fax,...): giao tiếp bằng cách thức gì
 
-VD: Please confirm the order by email.
+Ví dụ: please confirm the order by email.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + HÌNH THỨC THANH TOÁN (credit card, cheque): thanh toán bằng thẻ tín dụng/séc
+### By + hình thức thanh toán (credit card, cheque): thanh toán bằng thẻ tín dụng/séc
 
-VD: He paid for the items by cheque.
+Ví dụ: he paid for the items by cheque.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) "BY" SỬ DỤNG TRONG CÂU BỊ ĐỘNG: với nghĩa hành động được thực hiện "bởi" ... )
+### "By" sử dụng trong câu bị động: với nghĩa hành động được thực hiện "bởi" ... )
 
-VD:
+Ví dụ:
 
-Chủ động: James cleans the house.
+chủ động: james cleans the house.
 
-Bị động: The house is cleaned by James.
+bị động: the house is cleaned by james.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + ĐẠI TỪ PHẢN THÂN (myself, herself, himself,...): ai đó làm gì đó một mình
+### By + đại từ phản thân (myself, herself, himself,...): ai đó làm gì đó một mình
 
-VD: He wants to have dinner by himself.
+Ví dụ: he wants to have dinner by himself.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + V-ING: bằng cách nào đó
+### By + v-ing: bằng cách nào đó
 
-VD: I know he passed the exam by cheating.
+Ví dụ: i know he passed the exam by cheating.
 
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/2705.png) BY + THỜI GIAN: trước một mốc thời gian nhất định
+### By + thời gian: trước một mốc thời gian nhất định
 
-VD: I want all of you to be here by 10pm.
+Ví dụ: i want all of you to be here by 10pm.
 
-Thật đơn giản và hữu ích các bạn nhỉ? Chúc các bạn học tốt nha! ![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/2/16/1f60a.png)![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/2/16/1f60a.png)![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/2/16/1f60a.png)
-
-[](https://www.facebook.com/englishefa.com.vn/posts/2715709715331911/)
+!!! info "Nguồn"
+    [Nguồn bài viết](https://www.facebook.com/englishefa.com.vn/posts/2715709715331911/)

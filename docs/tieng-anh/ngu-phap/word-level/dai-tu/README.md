@@ -50,7 +50,7 @@ Ví dụ: something, somewhere, someone, anything, anywhere, anyone, anybody,eve
 Học cách dùng của một số đại từ bất định:
 
 - [Some, any](some-any-cac-thu.md)
-- Much, many, a lot of, lots of, a great deal, ...
+- [Much, many, a lot of, lots of](some-any-cac-thu.md)
 - [Few, a few, little, a little](few.md)
 - [All, most, most of,...](most.md)
 - [Every, each](each-every.md)

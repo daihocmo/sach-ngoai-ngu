@@ -1,6 +1,5 @@
-https://www.facebook.com/notes/3821648561229785/?locale=zh_CN
 
-Simple Future (Tương lai đơn)
+# Simple Future (Tương lai đơn)
 
 Thì tương lai đơn có 2 dạng khác nhau trong tiếng Anh: "will" và "be going to". Mặc dù 2 dạng này đôi khi có thể dùng thay đổi cho nhau nhưng chúng lại thường cho những ý nghĩa rất khác nhau. Ban đầu có thể bạn sẽ thấy sự khác nhau giữa chúng khá trừu tượng nhưng sau một thời gian thực tập thì bạn sẽ cảm thấy sự khác nhau rõ ràng giữa chúng. Cả "will" và "be going to" đều được dùng để chỉ một thời điểm nhất định trong tương lai.
 
@@ -155,3 +154,6 @@ Ví dụ:
 
 -   Sally is going to make a beautiful dinner tonight. *Chủ động*
 -   A beautiful dinner is going to be made by Sally tonight. *Bị động*
+
+!!! info "Nguồn bài viết"
+    [Nguồn bài viết](https://www.facebook.com/notes/3821648561229785)

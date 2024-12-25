@@ -181,27 +181,17 @@ Never ► Không bao giờ
 Trạng từ chỉ tần suất thường xuất hiện ở 3 vị trí: trước động từ thường, sau trợ động từ, và sau động từ TO BE.
 
 Đứng sau động từ TO BE\
-Ex : He is always modest about his achievements.
-
-(Anh ta luôn khiêm tốn về những thành tựu của mình).
+Ex : He is always modest about his achievements. (Anh ta luôn khiêm tốn về những thành tựu của mình).
 
 Đứng trước động từ thường:\
-Ex : I continually have to remind him of his family.
+Ex : I continually have to remind him of his family. (Tôi phải liên tục nhắc anh ta nhớ đến gia đình.)
 
-(Tôi phải liên tục nhắc anh ta nhớ đến gia đình.)
-
-He sometimes writes to me.
-
-(Thỉnh thoảng anh ta có viết thư cho tôi.)
+He sometimes writes to me. (Thỉnh thoảng anh ta có viết thư cho tôi.)
 
 Đứng giữa trợ động từ và động từ chính\
-I have never been abroad.
+I have never been abroad. (Tôi chưa bao giờ ra nước ngoài.)
 
-(Tôi chưa bao giờ ra nước ngoài.)
-
-You should always check your oil before starting.
-
-(Bạn luôn luôn nên kiểm tra dầu nhớt trước khi khởi hành.)
+You should always check your oil before starting. (Bạn luôn luôn nên kiểm tra dầu nhớt trước khi khởi hành.)
 
 Các trạng từ chỉ tần suất (trừ always, hardly, ever và never) còn có thể xuất hiện ở đầu câu và cuối câu. Vị trí đứng đầu câu được dùng với mục đích nhấn mạnh.
 
@@ -209,9 +199,7 @@ The teacher usually gives us an assignment.
 
 The teacher gives us an assignment usually.
 
-Usually the teacher gives us an assignment.
-
-(Thầy giáo thường ra bài tập cho chúng tôi.)
+Usually the teacher gives us an assignment. (Thầy giáo thường ra bài tập cho chúng tôi.)
 
 ### Comparative Adverbs
 Joe ran fast but Mary ran faster.

@@ -52,7 +52,7 @@ Here   -> There
 
 Last + danh từ thời gian
 
-Ex: Last week
+Ví dụ: Last week
 
 The previous +danh từ thời gian/ the + danh từ thời gian + before
 
@@ -62,7 +62,7 @@ Now -> Then
 
 Next + danh từ thời gian
 
-Ex: Next week
+Ví dụ: Next week
 
 The following/ The next + danh từ thời gian
 
@@ -232,8 +232,6 @@ Nếu lời nói và hành động xảy ra cùng ngày thì không cần phải
 
 At breakfast this morning he said "I will be busy today".At breakfast this morning he said he would be busy today.
 
-Các suy luận logic về mặt thời gian tất nhiên là cần thiết khi lời nói được thuật lại sau đó một hoặc hai ngày.
-
-(On Monday) He said " I'll be leaving on Wednesday "(On Tuesday) He said he would be leaving tomorrow.(On Wednesday) He said he would be leaving today.
+Các suy luận logic về mặt thời gian tất nhiên là cần thiết khi lời nói được thuật lại sau đó một hoặc hai ngày. (On Monday) He said " I'll be leaving on Wednesday "(On Tuesday) He said he would be leaving tomorrow.(On Wednesday) He said he would be leaving today.
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/459034514_3813259585559864_856904381248135668_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=350b3d&_nc_ohc=VJp3sMIWm8UQ7kNvgE2aWaB&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AgKQDEEMNpUg1PLr01EoQQ_&oh=00_AYBzSDYGGBJMzcYMml2bIDt0MRCI7J3Pq0ybHHlX_2f6uQ&oe=675C6D3B)

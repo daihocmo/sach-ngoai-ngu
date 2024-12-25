@@ -1,10 +1,6 @@
+# Simple Past (Quá khứ đơn)
 
-https://www.facebook.com/notes/409075023430022/
-Simple Past (Quá khứ đơn)
-
-FORM:
-
-Thêm "-ed" vào động từ gốc hoặc sử dụng dạng quá khứ của các động từ bất quy tắc.
+Cấu trúc: Thêm "-ed" vào động từ gốc hoặc sử dụng dạng quá khứ của các động từ bất quy tắc.
 
 Ví dụ:
 
@@ -12,9 +8,9 @@ Ví dụ:
 -   Did you call Debbie?
 -   You did not call Debbie.
 
-CÁCH DÙNG:
+## CÁCH DÙNG:
 
-1\.  Hành động đã hoàn thành trong quá khứ.
+### 1\.  Hành động đã hoàn thành trong quá khứ.
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454033047_8000079373406458_4217554956186972699_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=350b3d&_nc_ohc=UY9AACBbPw8Q7kNvgFzCm7h&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYDo_lmU9ixN_utUYZ7FAMqmQvQYI839-Tt6fawOyXVjcg&oe=6761AECE)
 
@@ -30,7 +26,7 @@ Ví dụ:
 -   She washed her car.
 -   He didn't wash his car.
 
-2\.  Một chuỗi các hành động đã kết thúc.
+### 2\.  Một chuỗi các hành động đã kết thúc.
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/453770481_8000079960073066_3334290672550735931_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=350b3d&_nc_ohc=KZTrY5GBkugQ7kNvgFnlm6C&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYBn6G30bE6t96fBHH9R0Kkrw9og-kgBdhnzS8FP0qPnJA&oe=6761C8B2)
 
@@ -42,7 +38,7 @@ Ví dụ:
 -   He arrived from the airport at 8:00, checked into the hotel at 9:00, and met the others at 10:00.
 -   Did you add flour, pour in the milk, and then add the eggs?
 
-3\. Một diễn tiến trong quá khứ. 
+### 3\. Một diễn tiến trong quá khứ. 
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/453987073_8000079970073065_4477522216039122031_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=350b3d&_nc_ohc=Q_patYcOaj4Q7kNvgE6Um4f&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYC5MYOi1K68wpTIqTeen_hkYVUAlEW6fgwsGshY7p4Jng&oe=6761BCB7)
 
@@ -64,7 +60,7 @@ A: How long did you wait for them?
 
 -   for one hour.
 
-4\. Các thói quen trong quá khứ
+### 4\. Các thói quen trong quá khứ
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/453874403_8000079963406399_969164925013001863_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=350b3d&_nc_ohc=uqKA0BE3rewQ7kNvgH1IVFj&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYACyaBIsNqT15BE2lgqg6uua2G6pLa2gNgODc-wsSvnQg&oe=6761AE0D)
 
@@ -79,7 +75,7 @@ Ví dụ:
 -   She worked at the movie theater after school.
 -   They never went to school, they always skipped class.
 
-5\. Những sự thật và khái quát hóa trong quá khứ.
+### 5\. Những sự thật và khái quát hóa trong quá khứ.
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/453981226_8000079946739734_7650458478692316905_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=350b3d&_nc_ohc=V2USf-mS2SEQ7kNvgGXisOM&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYAcEUx7mrCxrRPLU6C5VNneSCea-fcKOxVihhyqHVWJ7A&oe=6761CD51)
 
@@ -105,14 +101,17 @@ However, the example below has a different meaning. First, she answered my quest
 
 -   I paid her one dollar when she answered my question.
 
-Cách thêm Adverb:
+### Cách thêm Adverb:
 
 Những ví dụ dưới đây chỉ cách thêm các adverb như: always, only, never, ever, still, just, v.v... vào câu ở thì quá khứ đơn.
 
 -   You just called Debbie.
 -   Did you just call Debbie?
 
-Chủ động/Bị động
+### Chủ động/Bị động
 
 -   Tom repaired the car. *Chủ động.*
 -   The car was repaired by Tom. *Bị động*
+
+### Nguồn
+- [Simple Past (Quá khứ đơn)](https://www.facebook.com/notes/409075023430022/)

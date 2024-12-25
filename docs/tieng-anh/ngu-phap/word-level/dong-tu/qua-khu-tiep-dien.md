@@ -1,6 +1,4 @@
-https://www.facebook.com/notes/789217608602798/
-
-Past Continuous (Thì quá khứ tiếp diễn)
+# Past Continuous (Thì quá khứ tiếp diễn)
 
 FORM
 
@@ -139,3 +137,6 @@ Ví dụ:
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454235036_8004215299659532_3969025605430008876_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=350b3d&_nc_ohc=0sbKvTsNrsQQ7kNvgE5N3NV&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AgOkyJ2uRU869KS_9aYedj_&oh=00_AYCUQ2obbKlpj2iipKfYoOtv-09kAniKnYoaKlFwth9BYg&oe=6761BEC1)
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/453633430_8004215296326199_1327364801684961923_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=350b3d&_nc_ohc=cd_P1lLu3csQ7kNvgEuJ5Wp&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AgOkyJ2uRU869KS_9aYedj_&oh=00_AYBAtJs7wBr2O6NaGAxxMpEQ-THRXShrBPH84AHqCZT8MQ&oe=6761B822)
+
+### Nguồn
+- [Past Continuous (Thì quá khứ tiếp diễn)](https://www.facebook.com/notes/789217608602798/)

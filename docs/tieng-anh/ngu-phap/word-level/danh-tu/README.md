@@ -34,9 +34,7 @@ Proper noun là một danh từ chỉ tên riêng của một thứ gì đó. N�
 
 Mabel (tên của con mèo) là một danh từ riêng.
 
-Các ví dụ: Robin, Alice, London, Sweden, Google, Earth, Eiffel Tower, Civil War.
-
-(So sánh những ví dụ này với các ví dụ trong phần  "Common nouns" để biết sự khác nhau.)
+Các ví dụ: Robin, Alice, London, Sweden, Google, Earth, Eiffel Tower, Civil War. (So sánh những ví dụ này với các ví dụ trong phần  "Common nouns" để biết sự khác nhau.)
 
 ### Abstract Nouns (Các danh từ trừu tượng)
 

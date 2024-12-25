@@ -1,6 +1,4 @@
-https://www.facebook.com/notes/633837687283510/
-
-Present Perfect (Thì hiện tại hoàn thành)
+# Present Perfect (Thì hiện tại hoàn thành)
 
 FORM
 
@@ -12,11 +10,10 @@ Ví dụ:
 -   Have you seen that movie many times?
 -   You have not seen that movie many times.
 
-CÁCH DÙNG
 
-1\. Một thời điểm không xác định trước thời điểm hiện tại
+## Một thời điểm không xác định trước thời điểm hiện tại
 
-![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454237985_8007262546021474_224974837840367685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=350b3d&_nc_ohc=0Ez5NyS56ykQ7kNvgG-MjdY&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AtqKxjCFBRSAuXPs28m1h-I&oh=00_AYDtBDauITw3BPqaFsc2VT1Yc4nGXSzdqUyqaDCPMUcxrg&oe=6761A436)
+![alt text](img/image.png)
 
 Chúng ta dùng thì hiện tại hoàn thành để diễn tả một hành động xảy ra tại một thời điểm không xác định trước thời điểm hiện tại. Thời điểm chính xác không quan trọng. Bạn KHÔNG THỂ dùng thì hiện tại hoàn thành với những từ chỉ một thời điểm xác định, chẳng hạn như: yesterday, one year ago, last week, when I was a child, when I lived in Japan, at that moment, that day, one day, v.v... Chúng ta CÓ THỂ dùng thì hiện tại hoàn thành với những từ chỉ thời điểm không xác định, chẳng hạn như: ever, never, once, many times, several times, before, so far, already, yet, v.v...
 
@@ -40,7 +37,7 @@ A: Has there ever been a war in the United States?
 
 Khái niệm "thời điểm không xác định" có thể sẽ rất khó hiểu đối với những người học tiếng Anh. Do đó cách tốt nhất là liên hệ thì hiện tại hoàn thành với những chủ đề sau:
 
-CHỦ ĐỀ 1: KINH NGHIỆM 
+### CHỦ ĐỀ 1: KINH NGHIỆM 
 
 Bạn có thể dùng thì hiện tại hoàn thành để diễn tả kinh nghiệm của mình. Cũng giống như khi bạn nói: "I have the experience of . . ." Bạn cũng có thể dùng thì này để nói rằng mình chưa từng có những kinh nghiệm như vậy. Thì hiện tại hoàn thành không được dùng để mô tả một hiện tượng xác định nào đó.
 
@@ -76,7 +73,7 @@ A: Have you ever met him?
 
 -   him.
 
-CHỦ ĐỀ 2: NHỮNG THAY ĐỔI THEO THỜI GIAN
+### CHỦ ĐỀ 2: NHỮNG THAY ĐỔI THEO THỜI GIAN
 
 Chúng ta thường dùng thì hiện tại hoàn thành để nói về những thay đổi xảy ra trong một khoảng thời gian.
 
@@ -87,7 +84,7 @@ Ví dụ:
 -   Japanese has become one of the most popular courses at the university since the Asian studies program was established.
 -   My English has really improved since I moved to Australia.
 
-CHỦ ĐỀ 3: NHỮNG THÀNH TỰU, THÀNH QUẢ ĐÃ ĐẠT ĐƯỢC
+### CHỦ ĐỀ 3: NHỮNG THÀNH TỰU, THÀNH QUẢ ĐÃ ĐẠT ĐƯỢC
 
 Chúng ta thường dùng thì hiện tại hoàn thành để liệt kê những thành tựu mà một cá nhân hay loài người đã đạt được. Bạn không thể đề cập đến một thời điểm xác định.
 
@@ -98,7 +95,7 @@ Ví dụ:
 -   Doctors have cured many deadly diseases.
 -   Scientists have split the atom.
 
-CHỦ ĐỀ 4: HÀNH ĐỘNG CHƯA HOÀN THÀNH MÀ BẠN ĐANG MONG ĐỢI
+### CHỦ ĐỀ 4: HÀNH ĐỘNG CHƯA HOÀN THÀNH MÀ BẠN ĐANG MONG ĐỢI
 
 Chúng ta thường dùng thì hiện tại hoàn thành để nói về một hành động mà chúng ta mong đợi hoặc không mong đợi. Dùng thì hiện tại hoàn thành để thể hiện rằng chúng ta vẫn còn đang chờ đợi hành động đó xảy ra.
 
@@ -109,7 +106,7 @@ Ví dụ:
 -   Bill has still not arrived.
 -   The rain hasn't stopped.
 
-CHỦ ĐỀ 5: NHIỀU HÀNH ĐỘNG XẢY RA Ở NHỮNG THỜI ĐIỂM KHÁC NHAU 
+### CHỦ ĐỀ 5: NHIỀU HÀNH ĐỘNG XẢY RA Ở NHỮNG THỜI ĐIỂM KHÁC NHAU 
 
 Chúng ta cũng có thể dùng thì hiện tại hoàn thành để nói về nhiều hành động khác nhau xảy ra ở quá khứ tại những thời điểm khác nhau. Thì hiện tại hoàn thành có ý nghĩa là quá trình đó vẫn chưa kết thúc và có thể còn nhiều hành động khác nữa.
 
@@ -124,11 +121,11 @@ Thì hiện tại hoàn thành và những từ chỉ thời gian
 
 Khi chúng ta dùng thì hiện tại hoàn thành thì có nghĩa là có một điều gì đó đã xảy ra ở một thời điểm trong cuộc sống của chúng ta trước thời điểm hiện tại. Lưu ý là thời điểm chính xác lúc hành động xảy ra không quan trọng.
 
-![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454011481_8007262532688142_8326080670379181481_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=350b3d&_nc_ohc=t4fYb33aAykQ7kNvgEkKOTP&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AtqKxjCFBRSAuXPs28m1h-I&oh=00_AYAtrXtiRyRxOACnMq0NW_FzM5tmjQ0FUvmH_PpTtb5KsQ&oe=67619D4C)
+![alt text](img/image-1.png)
 
 Đôi khi chúng ta muốn giới hạn lại khoảng thời gian của những hành động này, chúng ta có thể dùng những thành ngữ chỉ thời gian như sau: in the last week, in the last year, this week, this month, so far, up to now v.v...
 
-![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454272377_8007262549354807_194904764668208875_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=350b3d&_nc_ohc=GbQJ7W6BKPYQ7kNvgE3VHEh&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AtqKxjCFBRSAuXPs28m1h-I&oh=00_AYAfqpYnalH9Gri14_zc_zqrWHnp_NMKyvp-j1oa5VvNMA&oe=6761B0C9)
+![alt text](img/image-2.png)
 
 Ví dụ:
 
@@ -148,9 +145,9 @@ I went to Mexico last year. (Tôi đã đến Mexico vào năm trước được
 
 I have been to Mexico in the last year. (Tôi đã đến Mexico ít nhất 1 lần tại một thời điểm nào đó trong khoảng thời gian tính từ 365 ngày trước đây cho đến bây giờ, và khoảng thời gian này không phải là một thời điểm xác định)
 
-2\. Kéo dài từ quá khứ cho đến hiện tại (Non-Continuous Verb)
+## Kéo dài từ quá khứ cho đến hiện tại (Non-Continuous Verb)
 
-![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454331856_8007262552688140_2602637948774766105_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=350b3d&_nc_ohc=vtI9PUeHgiMQ7kNvgH9WHyr&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=AtqKxjCFBRSAuXPs28m1h-I&oh=00_AYANbKI-sDbn7TVSsj3AFQFTBl6MZPWPzYEclZhU4eCOIQ&oe=6761D157)
+![alt text](img/image-3.png)
 
 Với các Non-Continuous Verb và những Mixed Verb với nghĩa non-continuous, chúng ta dùng thì hiện tại hoàn thành để diễn tả những hành động xảy ra trong quá khứ và tiếp tục kéo dài cho đến thời điểm hiện tại. "For five minutes," "for two weeks," và "since Tuesday" đều có thể được dùng với thì Present Perfect.
 
@@ -162,7 +159,7 @@ Ví dụ:
 
 Mặc dù cách dùng này giới hạn trong những động từ non-continuous và mixed verb với ý nghĩa non-continuous, các từ như "live," "work," "teach," và "study" đôi khi có thể được dùng theo cách này mặc dù chúng không phải là các Non-Continuous Verb.
 
-Cách đặt Adverb
+### Cách đặt Adverb
 
 Những ví dụ dưới đây mô tả các đặt các adverb như: always, only, never, ever, still, just, v.v... vào một câu ở thì hiện tại hoàn thành:
 
@@ -171,7 +168,7 @@ Ví dụ:
 -   You have only seen that movie one time.
 -   Have you only seen that movie one time?
 
-CHỦ ĐỘNG / BỊ ĐỘNG
+### CHỦ ĐỘNG / BỊ ĐỘNG
 
 Ví dụ:
 

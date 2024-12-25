@@ -7,15 +7,15 @@ Be about to trong tiếng Anh có nghĩa là "sắp sửa, chuẩn bị". Cấu 
 ### 2. Một số các tính chất
 Cụ thể hành động sắp xảy ra được diễn đạt bằng "be about to" có 3 tính chất như sau.
 
-#### a. Hành động sắp xảy ra này đã được dự kiến ​​sẽ diễn ra rất sớm trong tương lai và có thể nhận thấy rõ ràng.
+#### Hành động sắp xảy ra này đã được dự kiến ​​sẽ diễn ra rất sớm trong tương lai và có thể nhận thấy rõ ràng.
 
 Ví dụ: I see the plane flying at lower altitude. It is about to land (Tôi thấy máy bay đang hạ độ cao. Nó sắp sửa hạ cánh rồi.)
 
-#### b. Hành động đang được chuẩn bị để diễn ra rất gần.
+#### Hành động đang được chuẩn bị để diễn ra rất gần.
 
 Ví dụ: The baker is about to put the cake in the oven. (Người thợ làm bánh sắp sửa cho bánh vào lò nướng.)
 
-#### c. Hành động dự kiến sẽ xảy ra nhưng cuối cùng không xảy ra.
+#### Hành động dự kiến sẽ xảy ra nhưng cuối cùng không xảy ra.
 
 Ví dụ: The thief was about to escape when he was caught by the police. (Tên trộm sắp sửa trốn thoát thì bị cảnh sát bắt.)
 
@@ -31,4 +31,5 @@ Ví dụ: I **was about to** go to bed when the phone rang. (Tôi đang chuẩn 
 
 Lưu ý: Cấu trúc "be about to" trong câu không đi kèm cụm chỉ thời gian cụ thể (vì "be about to" hàm ý sẽ chuẩn bị xảy ra gần như ngay lập tức).
 
-https://www.facebook.com/EnglishwithTangVan/posts/474922475308425/
+!!! info "Nguồn bài viết"
+    [Nguồn bài viết](https://www.facebook.com/EnglishwithTangVan/posts/474922475308425/)

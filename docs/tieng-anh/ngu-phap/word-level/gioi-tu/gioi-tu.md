@@ -1,5 +1,11 @@
-https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/#post-13992948
-https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/page-70#post-29383582
+# Giới từ
+
+!!! info "Nguồn"
+    Được trích từ Thread []() trên Voz
+
+    - https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/#post-13992948
+    - https://voz.vn/t/thot-giai-%C4%91ap-ngu-phap-tu-vung-tieng-anh-co-ban-nang-cao.434811/page-70#post-29383582
+
 
 > Thớt hữu ích ![:p](https://data.voz.vn/styles/next/xenforo/smilies/popo/tongue.png?v=01 "Stick out tongue    :p")!\
 > Sẵn tiện thím cho em hỏi có cách nào học giới từ hiệu quả không ?

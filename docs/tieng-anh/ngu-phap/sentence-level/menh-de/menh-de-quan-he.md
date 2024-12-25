@@ -21,29 +21,19 @@ That (Sử dụng thay thế who, whom, which, when, where)
 
 WHO (antecedent chỉ người + who + V)
 
-e.g. I thanked the woman who helped me.
+e.g. I thanked the woman who helped me. (I thanked the woman that helped me.)
 
-(I thanked the woman that helped me.)
+e.g. I saw the man who closed the door. (I saw the man who closed the door.)
 
-e.g. I saw the man who closed the door.
-
-(I saw the man who closed the door.)
-
-e.g. The taxi driver who took me to the airport was friendly.
-
-(The taxi driver that took me to the airport was friendly.)
+e.g. The taxi driver who took me to the airport was friendly. (The taxi driver that took me to the airport was friendly.)
 
 ---
 
 WHOM (antecedent chỉ người + whom + S + V)
 
-e.g. The man whom I saw was Mr. Jones.
+e.g. The man whom I saw was Mr. Jones. (The man that I saw was Mr. Jones.)
 
-(The man that I saw was Mr. Jones.)
-
-e.g. I liked the woman whom I met at the party last night.
-
-(I liked the woman that I met at the party last night.)
+e.g. I liked the woman whom I met at the party last night. (I liked the woman that I met at the party last night.)
 
 Lưu ý: Chúng ta vẫn có thể sử dụng who thay cho whom.
 
@@ -51,17 +41,11 @@ Lưu ý: Chúng ta vẫn có thể sử dụng who thay cho whom.
 
 WHICH (antecedent chỉ vật + which + (S) + V)
 
-e.g. The movie which we saw last night wasn't very good.
+e.g. The movie which we saw last night wasn't very good. (The movie that we saw last night wasn't very good.)
 
-(The movie that we saw last night wasn't very good.)
+e.g. I liked the composition which you wrote. (I liked the composition that you wrote.)
 
-e.g. I liked the composition which you wrote.
-
-(I liked the composition that you wrote.)
-
-e.g. I really adored Bobby's cat which had soft hair.
-
-(I really liked Bobby's cat which had soft hair.
+e.g. I really adored Bobby's cat which had soft hair. (I really liked Bobby's cat which had soft hair.
 
 ---
 
