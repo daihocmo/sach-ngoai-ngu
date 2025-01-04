@@ -10,7 +10,7 @@ Ví dụ:
 
 ## CÁCH DÙNG:
 
-### 1\.  Hành động đã hoàn thành trong quá khứ.
+### 1. Hành động đã hoàn thành trong quá khứ.
 
 ![image](https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/454033047_8000079373406458_4217554956186972699_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=350b3d&_nc_ohc=UY9AACBbPw8Q7kNvgFzCm7h&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=As1koKGKEjfiC69JGhmleTv&oh=00_AYDo_lmU9ixN_utUYZ7FAMqmQvQYI839-Tt6fawOyXVjcg&oe=6761AECE)
 
@@ -22,9 +22,6 @@ Ví dụ:
 -   I didn't see a play yesterday.
 -   Last year, I traveled to Japan.
 -   Last year, I didn't travel to Korea.
--   Did you have dinner last night?
--   She washed her car.
--   He didn't wash his car.
 
 ### 2\.  Một chuỗi các hành động đã kết thúc.
 
@@ -52,13 +49,6 @@ Ví dụ:
 -   They did not stay at the party the entire time.
 -   We talked on the phone for thirty minutes.
 
-A: How long did you wait for them?
-
--   B: We
-
--   waited
-
--   for one hour.
 
 ### 4\. Các thói quen trong quá khứ
 

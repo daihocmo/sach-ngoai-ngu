@@ -1,4 +1,4 @@
-# Quá Khứ Hoàn Thành Tiếp Diễn)
+# Quá Khứ Hoàn Thành Tiếp Diễn
 
 ### Giới thiệu
 
@@ -65,8 +65,8 @@ Ví dụ:
 
 Ví dụ:
 
-- When I phoned, Natasha was having a piano lesson. (I phoned during the lesson.)
-- When I phoned, Natasha had been having a piano lesson. (I phoned after the lesson.
+- When I phoned, Natasha was having a piano lesson (I phoned during the lesson).
+- When I phoned, Natasha had been having a piano lesson. (I phoned after the lesson).
 
 
 ### Tham khảo

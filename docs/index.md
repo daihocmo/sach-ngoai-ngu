@@ -1,4 +1,12 @@
-# Một khu tổng hợp tài liệu tự học ngoại ngữ
-Tên trang nghe hơi dễ gây hiểu nhầm nên để cập nhật sau.
+---
+hide:
+    - toc
+    - navigation
+---
 
-Đây là trang tổng hợp hướng dẫn để ôn thi ngoại ngữ cho các chứng chỉ ngoại ngữ tương ứng. Vậy thôi
+# Hướng dẫn tự ôn thi ngoại ngữ
+Ở mỗi mục sẽ tổng hợp hướng dẫn học để thi cho từng ngôn ngữ một.
+
+Nếu bạn không học để thi thì có dùng được không? Hoàn toàn được, về cơ bản là hướng dẫn này là hướng dẫn học ngữ pháp và một phần nữa là tổng hợp nguồn tài nguyên và định hướng ôn thi (Bạn có thể bỏ qua phần này)
+
+Trang vẫn đang trong quá trình phát triển nên sẽ có nhiều phần thiếu.
